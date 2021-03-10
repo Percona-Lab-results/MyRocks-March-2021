@@ -1,0 +1,5 @@
+buffer_pool: 20
+memlimit: 40
+randtype: uniform
+threads: 150
+host: beast-node1-ubuntu

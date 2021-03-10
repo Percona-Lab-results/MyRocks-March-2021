@@ -1,0 +1,7 @@
+buffer_pool: 30
+memlimit: 60
+randtype: uniform
+threads: 150
+host: beast-node1-ubuntu
+storage: ssd
+engine: innodb

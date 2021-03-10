@@ -1,0 +1,4 @@
+buffer_pool: 
+randtype: uniform
+threads: 150
+host: beast-node1-ubuntu

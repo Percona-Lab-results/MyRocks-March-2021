@@ -1,0 +1,6 @@
+buffer_pool: 80
+memlimit: 160
+randtype: uniform
+threads: 150
+host: beast-node1-ubuntu
+storage: nvme

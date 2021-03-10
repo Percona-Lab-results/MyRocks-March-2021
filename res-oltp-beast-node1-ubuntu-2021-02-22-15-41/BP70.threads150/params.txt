@@ -1,0 +1,7 @@
+buffer_pool: 70
+memlimit: 140
+randtype: uniform
+threads: 150
+host: beast-node1-ubuntu
+storagae: nvme
+engine: myrocks

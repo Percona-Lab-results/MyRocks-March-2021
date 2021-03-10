@@ -1,0 +1,2288 @@
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 150
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 2 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 2 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 2 times)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+FATAL: unable to connect to MySQL server on host '127.0.0.1', port 3306, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+(last message repeated 1 times)
+FATAL: `thread_init' function failed: /usr/share/sysbench/oltp_common.lua:360: connection creation failed
+(last message repeated 3 times)
+FATAL: Thread initialization failed!
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 150
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+1,150,0.00,1742.60,1592.89,0.00,149.71,0.00,0.00,0.00
+2,150,156.04,3286.84,2318.59,656.17,312.08,1678.14,0.00,0.00
+3,150,277.06,4948.01,3292.67,1101.23,554.11,893.56,0.00,0.00
+4,150,316.84,6635.58,4734.56,1267.35,633.67,646.19,0.00,0.00
+5,150,438.16,8744.24,6102.26,1765.65,876.32,434.83,0.00,0.00
+6,150,621.00,12520.08,8782.06,2496.02,1242.01,320.17,0.00,0.00
+7,150,799.98,16022.50,11204.65,3217.90,1599.95,244.38,0.00,0.00
+8,150,976.01,19504.27,13634.19,3918.05,1952.03,196.89,0.00,0.00
+9,150,969.02,19383.31,13550.22,3895.06,1938.03,277.21,0.00,0.00
+10,150,1144.96,22802.16,15966.41,4545.83,2289.92,173.58,0.00,0.00
+11,150,1203.32,24105.41,16891.49,4807.28,2406.64,147.61,0.00,0.00
+12,150,1172.67,23710.31,16639.31,4725.67,2345.34,173.58,0.00,0.00
+13,150,1179.05,23355.07,16314.75,4682.21,2358.11,179.94,0.00,0.00
+14,150,1308.97,26091.37,18241.56,5231.87,2617.94,139.85,0.00,0.00
+15,150,1236.91,24944.29,17460.80,5009.66,2473.83,164.45,0.00,0.00
+16,150,1295.10,25555.94,17865.35,5100.39,2590.20,161.51,0.00,0.00
+17,150,1308.99,26345.71,18445.80,5281.94,2617.97,142.39,0.00,0.00
+18,150,1261.04,25519.88,17905.62,5093.18,2521.09,158.63,0.00,0.00
+19,150,1270.99,25279.85,17660.89,5075.97,2542.98,170.48,0.00,0.00
+20,150,1309.99,26393.87,18532.91,5240.97,2619.99,142.39,0.00,0.00
+21,150,1275.01,25142.12,17558.09,5034.02,2550.01,164.45,0.00,0.00
+22,150,1265.99,25379.89,17783.92,5063.98,2531.99,161.51,0.00,0.00
+23,150,1351.01,27179.20,19067.14,5410.04,2702.02,137.35,0.00,0.00
+24,150,1225.00,24520.10,17128.07,4942.02,2450.01,170.48,0.00,0.00
+25,150,1320.99,26245.81,18367.87,5235.96,2641.98,158.63,0.00,0.00
+26,150,1320.96,26656.15,18657.41,5356.83,2641.92,137.35,0.00,0.00
+27,150,1309.03,25881.52,18113.37,5150.10,2618.05,158.63,0.00,0.00
+28,150,1257.02,25440.32,17808.22,5118.06,2514.03,167.44,0.00,0.00
+29,150,1312.01,26159.27,18335.19,5200.05,2624.03,142.39,0.00,0.00
+30,150,1268.00,25166.96,17584.97,5045.99,2536.00,158.63,0.00,0.00
+31,150,1292.97,25880.37,18104.56,5189.87,2585.94,167.44,0.00,0.00
+32,150,1309.11,26238.20,18381.54,5238.44,2618.22,142.39,0.00,0.00
+33,150,1297.92,25932.46,18169.92,5166.69,2595.85,158.63,0.00,0.00
+34,150,1070.97,21345.50,14917.65,4285.90,2141.95,257.95,0.00,0.00
+35,150,1308.70,25939.12,18116.89,5204.82,2617.41,215.44,0.00,0.00
+36,150,1232.32,25236.46,17737.54,5034.29,2464.63,167.44,0.00,0.00
+37,150,1273.99,25303.86,17705.90,5049.97,2547.99,153.02,0.00,0.00
+38,150,1288.98,25701.61,17974.72,5148.92,2577.96,142.39,0.00,0.00
+39,150,1273.02,25347.47,17707.33,5094.09,2546.05,158.63,0.00,0.00
+40,150,1239.00,25040.97,17596.98,4965.99,2478.00,161.51,0.00,0.00
+41,150,1246.00,24815.98,17328.99,5001.00,2486.00,158.63,0.00,0.00
+42,150,1294.04,25928.88,18166.62,5168.18,2594.09,144.97,0.00,0.00
+43,150,1255.95,25215.94,17652.26,5051.79,2511.89,155.80,0.00,0.00
+44,150,1288.01,25518.19,17860.14,5082.04,2576.02,164.45,0.00,0.00
+45,150,1279.00,25533.95,17864.97,5110.99,2558.00,144.97,0.00,0.00
+46,150,1201.98,24305.66,17033.76,4867.93,2403.97,176.73,0.00,0.00
+47,150,1364.02,27385.50,19181.35,5476.10,2728.05,161.51,0.00,0.00
+48,150,1401.98,27533.67,19204.77,5524.93,2803.97,134.90,0.00,0.00
+49,150,1361.98,27501.65,19305.76,5471.93,2723.97,147.61,0.00,0.00
+50,150,1263.03,25181.53,17588.37,5067.11,2526.05,173.58,0.00,0.00
+51,150,1246.99,24821.82,17398.87,4934.96,2487.98,153.02,0.00,0.00
+52,150,1197.98,24161.53,16928.67,4830.91,2401.95,167.44,0.00,0.00
+53,150,1211.19,24201.90,16939.73,4839.78,2422.39,164.45,0.00,0.00
+54,150,1301.84,25836.85,18059.80,5173.37,2603.68,144.97,0.00,0.00
+55,150,1245.95,24931.98,17455.29,4984.80,2491.90,167.44,0.00,0.00
+56,150,1225.04,24821.75,17418.52,4953.15,2450.07,161.51,0.00,0.00
+57,150,1203.99,24019.86,16793.90,4817.97,2407.99,170.48,0.00,0.00
+58,150,1282.98,26064.61,18216.73,5281.92,2565.96,155.80,0.00,0.00
+59,150,1326.03,25976.51,18183.36,5141.10,2652.05,155.80,0.00,0.00
+60,150,1259.99,25375.76,17779.83,5075.95,2519.98,161.51,0.00,0.00
+61,150,1310.00,25900.03,18101.02,5179.01,2620.00,142.39,0.00,0.00
+62,150,1221.01,24691.24,17345.17,4904.05,2442.02,170.48,0.00,0.00
+63,150,1254.99,25034.85,17504.89,5019.97,2509.98,161.51,0.00,0.00
+64,150,1302.98,26202.69,18326.78,5269.94,2605.97,144.97,0.00,0.00
+65,150,1022.00,20327.93,14263.95,4019.99,2043.99,262.64,0.00,0.00
+66,150,1221.01,24305.20,16975.14,4888.04,2442.02,196.89,0.00,0.00
+67,150,1282.58,25798.58,18095.09,5138.32,2565.16,142.39,0.00,0.00
+68,150,1227.41,24342.06,16996.63,4890.62,2454.81,176.73,0.00,0.00
+69,150,1219.01,24520.15,17188.10,4894.03,2438.01,167.44,0.00,0.00
+70,150,1287.90,25885.02,18080.62,5228.60,2575.80,144.97,0.00,0.00
+71,150,1273.07,24905.35,17376.94,4982.27,2546.14,161.51,0.00,0.00
+72,150,1229.01,24975.20,17567.14,4950.04,2458.02,164.45,0.00,0.00
+73,150,1238.27,24865.44,17411.81,4977.09,2476.54,142.39,0.00,0.00
+74,150,1317.72,26382.37,18498.06,5248.88,2635.44,155.80,0.00,0.00
+75,150,1289.00,25706.02,17997.01,5131.00,2578.00,155.80,0.00,0.00
+76,150,1244.00,24899.02,17422.02,4989.00,2488.00,155.80,0.00,0.00
+77,150,1347.01,26765.21,18706.15,5365.04,2694.02,137.35,0.00,0.00
+78,150,1232.91,24979.10,17497.67,5015.62,2465.81,161.51,0.00,0.00
+79,150,1290.09,25451.85,17760.29,5111.37,2580.19,153.02,0.00,0.00
+80,150,1289.89,26091.79,18329.44,5182.56,2579.78,139.85,0.00,0.00
+81,150,1267.11,25599.29,17903.60,5161.46,2534.23,155.80,0.00,0.00
+82,150,1292.90,25345.97,17718.58,5041.60,2585.79,158.63,0.00,0.00
+83,150,1328.13,26747.62,18777.84,5313.52,2656.26,137.35,0.00,0.00
+84,150,1263.91,25322.23,17719.76,5074.65,2527.82,158.63,0.00,0.00
+85,150,1271.75,25385.97,17760.48,5081.99,2543.50,164.45,0.00,0.00
+86,150,1306.32,25869.29,18089.40,5167.26,2612.63,142.39,0.00,0.00
+87,150,1266.01,25619.16,17967.11,5120.03,2532.02,161.51,0.00,0.00
+88,150,1270.98,25312.62,17687.73,5082.92,2541.96,164.45,0.00,0.00
+89,150,1097.01,21800.25,15217.18,4389.05,2194.03,257.95,0.00,0.00
+90,150,1107.01,22098.21,15508.15,4376.04,2214.02,186.54,0.00,0.00
+91,150,1053.98,21148.60,14797.72,4242.92,2107.96,189.93,0.00,0.00
+92,150,1134.01,22977.17,16122.12,4587.03,2268.02,176.73,0.00,0.00
+93,150,1203.01,23972.14,16764.10,4802.03,2406.01,158.63,0.00,0.00
+94,150,1221.96,24441.16,17091.41,4905.83,2443.92,161.51,0.00,0.00
+95,150,1232.32,24579.48,17210.54,4904.29,2464.65,164.45,0.00,0.00
+96,150,1222.74,24400.78,17082.34,4872.96,2445.48,164.45,0.00,0.00
+97,150,1225.99,24502.71,17146.80,4903.94,2451.97,173.58,0.00,0.00
+98,150,1199.98,23986.54,16803.68,4782.91,2399.95,158.63,0.00,0.00
+99,150,1304.02,25952.31,18139.22,5205.06,2608.03,144.97,0.00,0.00
+100,150,1245.99,25021.75,17519.82,5009.95,2491.97,158.63,0.00,0.00
+101,150,1248.00,24781.00,17315.00,4970.00,2496.00,164.45,0.00,0.00
+102,150,1283.43,25860.64,18153.06,5140.72,2566.86,139.85,0.00,0.00
+103,150,1311.58,26363.60,18464.12,5276.32,2623.16,161.51,0.00,0.00
+104,150,1271.98,25314.59,17704.71,5065.92,2543.96,161.51,0.00,0.00
+105,150,1251.93,25165.56,17619.99,5041.71,2503.86,153.02,0.00,0.00
+106,150,1307.25,26377.00,18434.49,5328.01,2614.50,147.61,0.00,0.00
+107,150,1261.83,24976.72,17516.70,4936.35,2523.67,161.51,0.00,0.00
+108,150,1254.01,25160.22,17637.15,5015.04,2508.02,158.63,0.00,0.00
+109,150,1313.00,26036.96,18177.97,5232.99,2626.00,142.39,0.00,0.00
+110,150,1231.98,24796.52,17403.67,4928.91,2463.95,161.51,0.00,0.00
+111,150,1270.11,25461.26,17812.58,5108.45,2540.23,158.63,0.00,0.00
+112,150,1336.91,26667.16,18661.71,5331.63,2673.82,139.85,0.00,0.00
+113,150,1276.01,25342.27,17711.19,5079.05,2552.03,155.80,0.00,0.00
+114,150,1243.00,24814.00,17355.00,4973.00,2486.00,161.51,0.00,0.00
+115,150,1292.01,26030.16,18257.11,5189.03,2584.02,137.35,0.00,0.00
+116,150,1313.98,26243.68,18388.78,5226.94,2627.97,164.45,0.00,0.00
+117,150,1247.77,25115.36,17591.75,5028.07,2495.54,158.63,0.00,0.00
+118,150,1265.53,25099.66,17532.47,5036.13,2531.06,158.63,0.00,0.00
+119,150,1282.24,25787.85,18052.40,5170.97,2564.48,144.97,0.00,0.00
+120,150,1246.96,25051.20,17532.44,5024.84,2493.92,164.45,0.00,0.00
+121,150,1284.54,25300.68,17687.47,5044.13,2569.08,164.45,0.00,0.00
+122,150,1316.98,26450.55,18521.69,5294.91,2633.96,139.85,0.00,0.00
+123,150,1279.02,25641.44,17964.31,5119.09,2558.04,158.63,0.00,0.00
+124,150,1251.01,24938.23,17403.16,5033.05,2502.02,167.44,0.00,0.00
+125,150,1323.00,26700.95,18756.97,5297.99,2646.00,139.85,0.00,0.00
+126,150,1258.98,25219.50,17652.65,5048.90,2517.95,155.80,0.00,0.00
+127,150,1031.02,20402.41,14245.29,4095.08,2062.04,287.38,0.00,0.00
+128,150,1336.97,26780.32,18768.53,5337.87,2673.93,142.39,0.00,0.00
+129,150,1244.04,24769.79,17323.55,4958.16,2488.08,173.58,0.00,0.00
+130,150,1276.99,25701.86,18023.90,5123.97,2553.99,158.63,0.00,0.00
+131,150,1266.96,25259.15,17672.41,5052.83,2533.91,147.61,0.00,0.00
+132,150,1303.00,26361.91,18477.94,5277.98,2605.99,158.63,0.00,0.00
+133,150,1309.05,25721.03,17941.72,5161.21,2618.11,153.02,0.00,0.00
+134,150,1272.97,25800.32,18078.53,5175.86,2545.93,153.02,0.00,0.00
+135,150,1268.03,25276.54,17723.38,5017.11,2536.05,144.97,0.00,0.00
+136,150,1239.00,24671.96,17281.97,4911.99,2478.00,164.45,0.00,0.00
+137,150,1257.00,25126.07,17543.05,5069.01,2514.01,167.44,0.00,0.00
+138,150,1340.01,27007.23,18948.16,5379.05,2680.02,137.35,0.00,0.00
+139,150,1276.99,25328.75,17699.83,5074.95,2553.97,167.44,0.00,0.00
+140,150,1221.98,24505.50,17170.65,4890.90,2443.95,158.63,0.00,0.00
+141,150,1279.02,25552.48,17876.34,5118.10,2558.05,147.61,0.00,0.00
+142,150,1221.03,24409.62,17078.43,4889.12,2442.06,170.48,0.00,0.00
+143,150,1157.97,23204.36,16298.55,4589.87,2315.94,183.21,0.00,0.00
+144,150,1396.81,28034.27,19531.40,5709.24,2793.63,130.13,0.00,0.00
+145,150,1321.97,25992.32,18184.53,5163.87,2643.93,155.80,0.00,0.00
+146,150,1348.65,27365.93,19227.03,5441.59,2697.30,150.29,0.00,0.00
+147,150,1230.44,24499.85,17116.19,4922.78,2460.89,158.63,0.00,0.00
+148,150,1250.07,25101.39,17589.98,5011.28,2500.14,150.29,0.00,0.00
+149,150,1177.00,23486.09,16458.06,4674.02,2354.01,173.58,0.00,0.00
+150,150,1201.02,24099.37,16833.26,4864.07,2402.04,158.63,0.00,0.00
+151,150,1229.98,24805.58,17377.71,4967.92,2459.96,155.80,0.00,0.00
+152,150,1228.01,24318.19,17048.13,4814.04,2456.02,164.45,0.00,0.00
+153,150,1244.04,24716.84,17259.59,4969.17,2488.08,170.48,0.00,0.00
+154,150,1262.97,25470.37,17872.56,5071.88,2525.94,144.97,0.00,0.00
+155,150,1280.96,25441.22,17742.46,5136.84,2561.92,155.80,0.00,0.00
+156,150,1269.83,25467.50,17849.55,5078.30,2539.65,164.45,0.00,0.00
+157,150,1295.20,25894.91,18132.74,5171.78,2590.39,142.39,0.00,0.00
+158,150,969.84,19779.77,13868.74,3971.35,1939.68,272.27,0.00,0.00
+159,150,1297.26,25645.22,17930.65,5120.04,2594.53,164.45,0.00,0.00
+160,150,1282.69,25659.76,17987.63,5106.76,2565.38,142.39,0.00,0.00
+161,150,1235.32,24736.46,17333.53,4932.29,2470.65,164.45,0.00,0.00
+162,150,1300.94,25648.74,17886.12,5160.75,2601.87,158.63,0.00,0.00
+163,150,1291.74,26165.67,18368.26,5228.93,2568.48,142.39,0.00,0.00
+164,150,1222.24,24587.75,17212.33,4915.95,2459.48,167.44,0.00,0.00
+165,150,1235.01,24429.23,17097.16,4862.05,2470.02,176.73,0.00,0.00
+166,150,1240.00,24962.97,17439.98,5042.99,2480.00,144.97,0.00,0.00
+167,150,1337.96,26729.20,18738.44,5314.84,2675.92,158.63,0.00,0.00
+168,150,1226.99,24497.83,17140.88,4902.97,2453.98,155.80,0.00,0.00
+169,150,1261.05,25225.04,17680.73,5022.21,2522.10,144.97,0.00,0.00
+170,150,1314.98,26403.70,18480.79,5292.94,2629.97,150.29,0.00,0.00
+171,150,1252.88,25260.53,17702.27,5052.51,2505.76,161.51,0.00,0.00
+172,150,1256.12,24880.33,17403.63,4964.47,2512.24,161.51,0.00,0.00
+173,150,1324.99,26177.80,18284.86,5242.96,2649.98,147.61,0.00,0.00
+174,150,1115.02,22753.51,16052.36,4471.10,2230.05,207.82,0.00,0.00
+175,150,954.00,18965.98,13153.99,3907.00,1905.00,223.34,0.00,0.00
+176,150,1186.50,23554.06,16498.04,4680.03,2376.00,161.51,0.00,0.00
+177,150,1159.47,23152.36,16184.55,4648.88,2318.94,170.48,0.00,0.00
+178,150,1168.99,23624.74,16572.82,4713.95,2337.97,173.58,0.00,0.00
+179,150,1260.00,25061.01,17528.01,5013.00,2520.00,150.29,0.00,0.00
+180,150,1226.02,24389.34,17064.24,4873.07,2452.03,164.45,0.00,0.00
+181,150,1230.07,24713.40,17302.98,4950.28,2460.14,161.51,0.00,0.00
+182,150,1277.96,25813.29,18120.50,5136.86,2555.93,139.85,0.00,0.00
+183,150,1230.96,24250.21,16892.45,4895.84,2461.92,167.44,0.00,0.00
+184,150,1208.02,24254.33,16963.23,4875.07,2416.03,170.48,0.00,0.00
+185,150,1249.98,24911.67,17445.77,4965.93,2499.97,147.61,0.00,0.00
+186,150,1220.99,24719.88,17322.91,4954.98,2441.99,170.48,0.00,0.00
+187,150,1216.01,24438.28,17150.19,4856.05,2432.03,164.45,0.00,0.00
+188,150,1246.54,24687.99,17269.69,4925.20,2493.09,153.02,0.00,0.00
+189,150,1158.42,23075.43,16153.90,4604.68,2316.85,196.89,0.00,0.00
+190,150,1227.80,24756.00,17345.20,4955.20,2455.60,161.51,0.00,0.00
+191,150,1230.82,24668.36,17262.45,4944.27,2461.64,161.51,0.00,0.00
+192,150,1249.40,25034.08,17527.66,5007.62,2498.81,155.80,0.00,0.00
+193,150,1229.82,24556.45,17159.52,4937.29,2459.64,167.44,0.00,0.00
+194,150,1234.11,24322.20,17031.54,4822.44,2468.22,167.44,0.00,0.00
+195,150,1282.81,25894.10,18102.28,5226.21,2565.61,142.39,0.00,0.00
+196,150,1215.23,24255.69,16990.28,4834.93,2430.47,173.58,0.00,0.00
+197,150,1271.98,25183.67,17601.77,5037.93,2543.97,161.51,0.00,0.00
+198,150,1281.83,25888.48,18162.53,5162.30,2563.65,142.39,0.00,0.00
+199,150,1248.35,24870.95,17385.86,4988.39,2496.70,170.48,0.00,0.00
+200,150,1218.88,24524.53,17192.27,4894.51,2437.75,179.94,0.00,0.00
+201,150,1295.95,25625.99,17932.29,5101.80,2591.90,147.61,0.00,0.00
+202,150,1203.02,24332.47,17079.33,4847.09,2406.05,164.45,0.00,0.00
+203,150,1211.95,24124.03,16828.32,4871.80,2423.90,179.94,0.00,0.00
+204,150,1304.78,26313.55,18440.88,5263.11,2609.56,139.85,0.00,0.00
+205,150,1250.23,24791.65,17355.26,4935.93,2500.47,167.44,0.00,0.00
+206,150,1275.44,25370.84,17733.20,5087.76,2549.88,161.51,0.00,0.00
+207,150,1295.58,26094.65,18258.15,5244.34,2592.16,144.97,0.00,0.00
+208,150,1267.81,25263.30,17718.41,5009.27,2535.63,167.44,0.00,0.00
+209,150,1232.06,25009.17,17531.82,5013.24,2464.12,167.44,0.00,0.00
+210,150,1326.15,26226.03,18311.12,5262.61,2652.31,142.39,0.00,0.00
+211,150,1272.60,25588.05,17928.43,5114.41,2545.21,161.51,0.00,0.00
+212,150,1248.24,24917.84,17449.39,4971.97,2496.48,164.45,0.00,0.00
+213,150,1287.11,25783.11,18081.48,5127.42,2574.21,142.39,0.00,0.00
+214,150,1302.03,25705.62,17927.43,5174.12,2604.06,161.51,0.00,0.00
+215,150,1188.99,24163.89,17003.92,4781.98,2377.99,161.51,0.00,0.00
+216,150,1307.09,25966.79,18148.25,5204.36,2614.18,139.85,0.00,0.00
+217,150,1277.92,25481.33,17777.84,5147.66,2555.83,161.51,0.00,0.00
+218,150,1246.92,25019.45,17551.91,4973.69,2493.85,161.51,0.00,0.00
+219,150,1225.92,24819.42,17383.89,4983.68,2451.84,150.29,0.00,0.00
+220,150,1099.87,21601.39,15097.18,4304.48,2199.73,235.74,0.00,0.00
+221,150,1254.32,25087.38,17577.47,5001.27,2508.64,164.45,0.00,0.00
+222,150,1236.99,24807.76,17361.83,4971.95,2473.98,150.29,0.00,0.00
+223,150,1333.99,26777.86,18718.90,5390.97,2667.99,155.80,0.00,0.00
+224,150,1244.01,24747.23,17342.16,4917.05,2488.02,164.45,0.00,0.00
+225,150,1255.80,25493.85,17861.09,5121.17,2511.59,161.51,0.00,0.00
+226,150,1318.17,26083.38,18248.37,5198.67,2636.34,144.97,0.00,0.00
+227,150,1263.77,25028.38,17473.77,5027.07,2527.53,167.44,0.00,0.00
+228,150,1254.28,25252.62,17700.94,5043.12,2508.56,164.45,0.00,0.00
+229,150,1283.98,25561.70,17870.79,5122.94,2567.97,144.97,0.00,0.00
+230,150,1221.95,24667.06,17291.34,4931.81,2443.91,167.44,0.00,0.00
+231,150,1259.94,25312.73,17723.11,5069.75,2519.87,158.63,0.00,0.00
+232,150,1319.91,26147.19,18297.73,5209.64,2639.82,142.39,0.00,0.00
+233,150,1188.02,23888.41,16729.29,4783.08,2376.04,170.48,0.00,0.00
+234,150,1273.20,25549.00,17843.79,5158.81,2546.40,158.63,0.00,0.00
+235,150,1397.63,27816.55,19531.77,5489.53,2795.25,130.13,0.00,0.00
+236,150,1343.07,26814.39,18743.97,5384.28,2686.14,153.02,0.00,0.00
+237,150,1364.57,27572.55,19325.10,5518.31,2729.14,150.29,0.00,0.00
+238,150,1186.57,23790.29,16628.91,4788.25,2373.13,150.29,0.00,0.00
+239,150,1255.88,24789.66,17366.36,4911.54,2511.76,167.44,0.00,0.00
+240,150,1157.29,23284.83,16292.08,4678.17,2314.58,167.44,0.00,0.00
+241,150,1180.78,23780.61,16676.92,4742.13,2361.56,170.48,0.00,0.00
+242,150,1270.09,25074.88,17498.31,5036.38,2540.19,155.80,0.00,0.00
+243,150,1178.10,23860.93,16716.35,4788.39,2356.19,167.44,0.00,0.00
+244,150,1190.03,23360.49,16337.34,4643.10,2380.05,167.44,0.00,0.00
+245,150,1289.99,25788.81,18055.87,5152.96,2579.98,147.61,0.00,0.00
+246,150,1298.97,26157.33,18327.53,5231.87,2597.93,155.80,0.00,0.00
+247,150,1300.05,25946.02,18151.71,5194.20,2600.10,153.02,0.00,0.00
+248,150,1340.97,26997.44,18932.61,5382.89,2681.94,139.85,0.00,0.00
+249,150,1296.82,25729.41,17973.49,5162.28,2593.64,158.63,0.00,0.00
+250,150,1317.15,26476.02,18544.12,5297.61,2634.30,147.61,0.00,0.00
+251,150,1142.38,23134.38,16215.15,4634.47,2284.75,170.48,0.00,0.00
+252,150,1298.76,25766.03,18045.53,5122.99,2597.52,257.95,0.00,0.00
+253,150,1318.55,26184.02,18254.74,5291.19,2638.10,155.80,0.00,0.00
+254,150,1345.48,26851.61,18839.75,5321.91,2689.96,137.35,0.00,0.00
+255,150,1299.00,26495.98,18551.99,5346.00,2598.00,153.02,0.00,0.00
+256,150,1328.72,26235.50,18364.15,5213.91,2657.44,153.02,0.00,0.00
+257,150,1301.23,25979.69,18189.28,5187.94,2602.47,137.35,0.00,0.00
+258,150,1307.68,26245.61,18407.52,5222.73,2615.36,153.02,0.00,0.00
+259,150,1215.33,24351.70,17035.68,4885.34,2430.67,158.63,0.00,0.00
+260,150,1005.21,20048.14,14049.90,3987.82,2010.42,211.60,0.00,0.00
+261,150,1227.73,24614.57,17187.21,4971.90,2455.46,153.02,0.00,0.00
+262,150,561.05,11010.98,7684.69,2204.20,1122.10,657.93,0.00,0.00
+263,150,384.97,7716.41,5427.59,1518.88,769.94,719.92,0.00,0.00
+264,150,511.02,10131.43,7084.30,2025.09,1022.04,383.33,0.00,0.00
+265,150,472.03,9519.69,6673.49,1902.14,944.07,383.33,0.00,0.00
+266,150,426.97,8534.34,5948.54,1731.87,853.93,450.77,0.00,0.00
+267,150,413.05,8499.07,6002.75,1670.21,826.10,475.79,0.00,0.00
+268,150,661.82,13181.32,9179.44,2678.25,1323.63,419.45,0.00,0.00
+269,150,938.09,18710.89,13130.32,3704.37,1876.19,215.44,0.00,0.00
+270,150,1056.00,21187.96,14841.97,4233.99,2112.00,207.82,0.00,0.00
+271,150,1211.00,24234.00,16945.00,4867.00,2422.00,164.45,0.00,0.00
+272,150,1236.01,24500.29,17144.21,4884.06,2472.03,167.44,0.00,0.00
+273,150,1190.00,24045.02,16862.01,4803.00,2380.00,167.44,0.00,0.00
+274,150,1168.99,23211.72,16218.80,4654.94,2337.97,153.02,0.00,0.00
+275,150,985.63,19841.57,13915.79,3954.52,1971.26,223.34,0.00,0.00
+276,150,936.37,18658.46,13039.21,3746.50,1872.75,204.11,0.00,0.00
+277,150,981.98,19532.56,13681.70,3886.91,1963.96,196.89,0.00,0.00
+278,150,943.00,18989.06,13325.04,3778.01,1886.01,215.44,0.00,0.00
+279,150,957.83,19028.68,13274.68,3838.33,1915.67,215.44,0.00,0.00
+280,150,1005.83,20112.70,14079.69,4021.34,2011.67,215.44,0.00,0.00
+281,150,948.26,19031.15,13311.60,3823.03,1896.51,200.47,0.00,0.00
+282,150,1011.89,20393.78,14318.44,4051.56,2023.78,204.11,0.00,0.00
+283,150,924.08,18424.50,12914.05,3662.30,1848.15,248.83,0.00,0.00
+284,150,1013.79,20244.85,14115.11,4102.16,2027.58,200.47,0.00,0.00
+285,150,938.08,18943.68,13296.18,3771.33,1876.17,207.82,0.00,0.00
+286,150,922.48,18236.65,12708.79,3683.91,1843.95,207.82,0.00,0.00
+287,150,945.33,18763.62,13162.65,3709.31,1891.67,211.60,0.00,0.00
+288,150,997.28,20112.70,14089.99,4028.14,1994.57,200.47,0.00,0.00
+289,150,1205.03,24067.57,16844.40,4813.11,2410.06,196.89,0.00,0.00
+290,150,1266.68,25065.75,17507.63,5024.75,2533.37,164.45,0.00,0.00
+291,150,1201.27,24205.37,16965.76,4837.07,2402.53,179.94,0.00,0.00
+292,150,1202.87,24192.34,17003.13,4783.47,2405.74,186.54,0.00,0.00
+293,150,1211.15,24231.91,16909.03,4900.59,2422.29,167.44,0.00,0.00
+294,150,1263.81,25276.27,17692.39,5056.25,2527.63,161.51,0.00,0.00
+295,150,1216.17,24048.40,16802.38,4813.68,2432.34,179.94,0.00,0.00
+296,150,1156.82,23400.42,16411.49,4675.28,2313.65,183.21,0.00,0.00
+297,150,1285.36,25738.28,18000.09,5167.46,2570.73,142.39,0.00,0.00
+298,150,1270.88,25239.65,17655.35,5042.53,2541.76,167.44,0.00,0.00
+299,150,1266.91,25361.18,17762.73,5064.64,2533.82,167.44,0.00,0.00
+300,150,1218.87,24599.35,17218.15,4943.47,2437.74,173.58,0.00,0.00
+301,150,1284.22,25455.35,17826.05,5060.86,2568.44,164.45,0.00,0.00
+302,150,985.85,19865.99,13938.89,3955.40,1971.70,227.40,0.00,0.00
+303,150,1051.24,20750.78,14466.33,4181.96,2102.48,200.47,0.00,0.00
+304,150,976.61,19914.05,13945.43,4015.40,1953.22,193.38,0.00,0.00
+305,150,986.56,19492.98,13674.70,3845.17,1973.11,193.38,0.00,0.00
+306,150,1017.79,20483.67,14310.98,4137.13,2035.57,189.93,0.00,0.00
+307,150,1013.92,20156.40,14130.88,3997.68,2027.84,207.82,0.00,0.00
+308,150,984.03,19589.64,13697.45,3924.13,1968.06,211.60,0.00,0.00
+309,150,1007.77,20126.48,14057.84,4053.09,2015.55,207.82,0.00,0.00
+310,150,933.20,19070.10,13415.89,3787.82,1866.40,207.82,0.00,0.00
+311,150,1008.79,19977.81,13964.07,3996.16,2017.58,196.89,0.00,0.00
+312,150,948.28,18940.55,13269.89,3774.11,1896.56,200.47,0.00,0.00
+313,150,1048.97,20773.42,14528.59,4146.88,2097.94,196.89,0.00,0.00
+314,150,1031.71,20763.18,14524.93,4174.83,2063.42,303.33,0.00,0.00
+315,150,1280.62,25520.37,17835.65,5123.48,2561.24,161.51,0.00,0.00
+316,150,1235.91,24858.13,17453.68,4932.63,2471.81,170.48,0.00,0.00
+317,150,1281.00,25462.92,17720.95,5179.98,2561.99,170.48,0.00,0.00
+318,150,1255.54,25316.68,17809.44,4996.16,2511.08,161.51,0.00,0.00
+319,150,1299.54,25726.67,17986.46,5141.13,2599.08,164.45,0.00,0.00
+320,150,1205.58,24218.63,16964.14,4846.33,2408.17,173.58,0.00,0.00
+321,150,1264.27,25183.40,17602.78,5049.08,2531.54,161.51,0.00,0.00
+322,150,1226.88,24618.68,17212.38,4952.53,2453.77,173.58,0.00,0.00
+323,150,1295.01,26090.20,18362.14,5138.04,2590.02,153.02,0.00,0.00
+324,150,1292.00,25869.08,18078.05,5207.02,2584.01,158.63,0.00,0.00
+325,150,1283.90,25871.89,18133.52,5170.58,2567.79,153.02,0.00,0.00
+326,150,1222.05,24494.94,17146.66,4904.19,2444.09,176.73,0.00,0.00
+327,150,1151.04,22674.77,15851.54,4521.15,2302.08,189.93,0.00,0.00
+328,150,970.98,19470.57,13628.70,3899.91,1941.96,204.11,0.00,0.00
+329,150,1011.84,20222.71,14140.70,4058.34,2023.67,200.47,0.00,0.00
+330,150,1014.29,20116.73,14058.00,4030.15,2028.58,204.11,0.00,0.00
+331,150,1005.83,20545.46,14431.51,4102.29,2011.65,189.93,0.00,0.00
+332,150,1285.01,25467.23,17792.16,5105.05,2570.02,200.47,0.00,0.00
+333,150,1316.91,26456.25,18570.77,5251.65,2633.83,153.02,0.00,0.00
+334,150,1282.53,25662.53,17939.36,5158.12,2565.05,137.35,0.00,0.00
+335,150,1335.55,26594.12,18637.78,5285.24,2671.11,153.02,0.00,0.00
+336,150,1282.35,25731.00,17993.90,5172.41,2564.70,153.02,0.00,0.00
+337,150,1314.85,25968.04,18138.93,5199.41,2629.70,142.39,0.00,0.00
+338,150,1339.01,26887.16,18843.11,5366.03,2678.02,153.02,0.00,0.00
+339,150,1267.00,25465.91,17850.94,5080.98,2533.99,158.63,0.00,0.00
+340,150,1239.79,24865.70,17385.00,5001.14,2479.57,150.29,0.00,0.00
+341,150,1397.23,27993.67,19594.27,5604.93,2794.47,153.02,0.00,0.00
+342,150,1385.75,27614.08,19303.56,5539.01,2771.51,164.45,0.00,0.00
+343,150,1497.12,29852.33,20925.63,5932.46,2994.23,125.52,0.00,0.00
+344,150,1344.30,26980.96,18894.18,5398.19,2688.59,147.61,0.00,0.00
+345,150,1025.56,20570.11,14421.77,4097.23,2051.11,262.64,0.00,0.00
+346,150,1291.41,25875.16,18083.70,5208.64,2582.81,144.97,0.00,0.00
+347,150,1251.99,24747.77,17279.84,4963.95,2503.98,164.45,0.00,0.00
+348,150,1226.82,24533.37,17204.45,4875.28,2453.64,170.48,0.00,0.00
+349,150,1332.68,26705.59,18685.51,5354.72,2665.36,142.39,0.00,0.00
+350,150,1271.20,25397.94,17784.75,5070.79,2542.39,158.63,0.00,0.00
+351,150,1221.37,24576.46,17196.22,4937.50,2442.74,196.89,0.00,0.00
+352,150,1312.71,26438.14,18513.89,5298.82,2625.42,137.35,0.00,0.00
+353,150,1299.27,25771.35,18046.75,5126.06,2598.54,155.80,0.00,0.00
+354,150,1261.99,25192.87,17635.91,5032.97,2523.99,158.63,0.00,0.00
+355,150,1253.48,25199.72,17654.81,5037.94,2506.97,155.80,0.00,0.00
+356,150,1071.68,21379.62,14983.53,4252.73,2143.36,189.93,0.00,0.00
+357,150,1092.90,21843.01,15262.61,4394.60,2185.80,207.82,0.00,0.00
+358,150,1205.15,24034.05,16827.14,4796.61,2410.31,153.02,0.00,0.00
+359,150,1270.84,25420.70,17800.69,5078.34,2541.67,167.44,0.00,0.00
+360,150,1208.12,24060.47,16817.72,4826.50,2416.25,167.44,0.00,0.00
+361,150,1232.87,24825.33,17399.13,4960.47,2465.74,167.44,0.00,0.00
+362,150,1344.73,26954.64,18875.24,5389.93,2689.46,150.29,0.00,0.00
+363,150,1261.26,25332.20,17743.64,5066.04,2522.52,155.80,0.00,0.00
+364,150,1312.00,25880.94,18055.96,5200.99,2623.99,153.02,0.00,0.00
+365,150,1346.69,27061.76,18992.62,5375.76,2693.38,137.35,0.00,0.00
+366,150,1301.27,26068.48,18259.84,5206.09,2602.55,158.63,0.00,0.00
+367,150,1317.00,26240.97,18332.98,5273.99,2634.00,150.29,0.00,0.00
+368,150,1347.00,26942.08,18888.06,5360.02,2694.01,139.85,0.00,0.00
+369,150,1291.02,25695.37,17925.26,5188.07,2582.04,158.63,0.00,0.00
+370,150,1236.00,24871.05,17461.03,4938.01,2472.00,211.60,0.00,0.00
+371,150,1351.79,27014.78,18870.05,5441.15,2703.58,139.85,0.00,0.00
+372,150,1275.21,25516.25,17872.98,5092.85,2550.43,170.48,0.00,0.00
+373,150,1305.96,26049.21,18225.45,5211.84,2611.92,167.44,0.00,0.00
+374,150,1385.82,27986.32,19617.42,5597.26,2771.64,132.49,0.00,0.00
+375,150,1263.32,24999.42,17485.49,4987.28,2526.65,161.51,0.00,0.00
+376,150,1226.68,24660.66,17257.56,4949.73,2453.37,196.89,0.00,0.00
+377,150,1377.96,27475.19,19255.43,5463.84,2755.92,137.35,0.00,0.00
+378,150,1314.47,26344.35,18404.54,5310.89,2628.93,158.63,0.00,0.00
+379,150,1306.57,26269.36,18453.93,5202.29,2613.14,158.63,0.00,0.00
+380,150,1299.12,25997.40,18191.68,5207.48,2598.24,153.02,0.00,0.00
+381,150,1322.06,26287.22,18399.85,5243.24,2644.12,150.29,0.00,0.00
+382,150,1268.73,25426.50,17740.17,5148.89,2537.45,164.45,0.00,0.00
+383,150,1302.30,25906.00,18162.21,5139.19,2604.60,153.02,0.00,0.00
+384,150,1354.79,27266.84,19086.09,5471.17,2709.59,139.85,0.00,0.00
+385,150,1303.19,25919.82,18147.67,5165.76,2606.38,150.29,0.00,0.00
+386,150,1293.75,26010.06,18211.54,5211.01,2587.51,158.63,0.00,0.00
+387,150,1365.28,27082.65,18925.95,5426.13,2730.57,137.35,0.00,0.00
+388,150,1306.75,26317.02,18415.51,5288.00,2613.51,147.61,0.00,0.00
+389,150,1190.20,23976.12,16834.89,4760.82,2380.41,196.89,0.00,0.00
+390,150,1343.78,26811.59,18763.92,5360.12,2687.56,137.35,0.00,0.00
+391,150,1272.01,25350.13,17692.09,5114.03,2544.01,170.48,0.00,0.00
+392,150,1285.20,25653.02,18023.82,5058.79,2570.40,158.63,0.00,0.00
+393,150,1323.79,26542.74,18547.02,5348.14,2647.57,139.85,0.00,0.00
+394,150,1321.23,26321.59,18387.20,5291.92,2642.46,158.63,0.00,0.00
+395,150,1266.82,25419.32,17844.42,5041.27,2533.63,167.44,0.00,0.00
+396,150,1326.18,26599.68,18606.58,5340.74,2652.37,142.39,0.00,0.00
+397,150,1333.01,26715.11,18750.08,5299.02,2666.01,155.80,0.00,0.00
+398,150,1292.00,25924.95,18137.97,5202.99,2584.00,164.45,0.00,0.00
+399,150,1336.90,26482.09,18484.66,5323.62,2673.81,158.63,0.00,0.00
+400,150,1317.86,26312.19,18432.03,5244.44,2635.72,155.80,0.00,0.00
+401,150,1352.25,26840.93,18751.44,5384.99,2704.50,150.29,0.00,0.00
+402,150,1292.12,26103.38,18329.67,5189.47,2584.24,147.61,0.00,0.00
+403,150,1379.99,27633.78,19327.84,5546.96,2758.98,137.35,0.00,0.00
+404,150,1322.66,26416.21,18499.25,5270.65,2646.32,150.29,0.00,0.00
+405,150,1304.18,26166.56,18321.49,5236.71,2608.35,153.02,0.00,0.00
+406,150,1342.41,26738.10,18738.68,5314.61,2684.81,137.35,0.00,0.00
+407,150,1123.54,22459.90,15648.66,4564.15,2247.09,267.41,0.00,0.00
+408,150,1234.16,24755.29,17365.31,4921.65,2468.33,193.38,0.00,0.00
+409,150,1392.99,27894.80,19514.86,5593.96,2785.98,134.90,0.00,0.00
+410,150,1293.79,25768.84,18052.08,5129.17,2587.58,164.45,0.00,0.00
+411,150,1321.21,26615.15,18648.91,5323.83,2642.41,158.63,0.00,0.00
+412,150,1386.08,27744.56,19393.09,5579.31,2772.16,134.90,0.00,0.00
+413,150,1317.03,26346.62,18485.44,5227.12,2634.06,167.44,0.00,0.00
+414,150,1320.70,26466.96,18540.77,5284.79,2641.40,155.80,0.00,0.00
+415,150,1387.61,27382.11,19123.45,5483.42,2775.23,137.35,0.00,0.00
+416,150,1312.39,26477.64,18480.37,5372.49,2624.77,155.80,0.00,0.00
+417,150,1295.25,25947.07,18217.56,5139.00,2590.51,173.58,0.00,0.00
+418,150,1313.91,26250.23,18355.76,5266.65,2627.82,161.51,0.00,0.00
+419,150,1335.90,26505.96,18551.57,5282.59,2671.79,161.51,0.00,0.00
+420,150,1301.68,26136.67,18324.56,5208.74,2603.37,161.51,0.00,0.00
+421,150,1335.72,26726.50,18703.15,5351.90,2671.45,134.90,0.00,0.00
+422,150,1339.58,26873.48,18840.03,5354.30,2679.15,155.80,0.00,0.00
+423,150,1338.42,26791.34,18739.83,5374.67,2676.83,150.29,0.00,0.00
+424,150,1313.60,26270.94,18365.37,5278.38,2627.19,147.61,0.00,0.00
+425,150,1366.21,27118.19,18988.94,5396.83,2732.42,142.39,0.00,0.00
+426,150,1288.47,25964.30,18158.52,5228.85,2576.94,153.02,0.00,0.00
+427,150,1243.52,24771.30,17338.21,4946.06,2487.03,204.11,0.00,0.00
+428,150,1015.99,20510.85,14370.90,4107.97,2031.99,186.54,0.00,0.00
+429,150,995.00,19780.98,13856.99,3934.00,1990.00,200.47,0.00,0.00
+430,150,968.89,19252.73,13476.41,3838.55,1937.77,211.60,0.00,0.00
+431,150,993.10,20173.99,14128.39,4059.40,1986.20,196.89,0.00,0.00
+432,150,1047.29,20646.74,14449.01,4103.14,2094.58,186.54,0.00,0.00
+433,150,1477.42,29485.37,20619.86,5910.67,2954.83,176.73,0.00,0.00
+434,150,1192.96,24094.09,16860.37,4847.82,2385.91,173.58,0.00,0.00
+435,150,1257.22,25044.43,17560.10,4969.88,2514.44,155.80,0.00,0.00
+436,150,1357.82,27023.44,18933.51,5374.29,2715.64,137.35,0.00,0.00
+437,150,1165.14,23301.78,16259.94,4711.56,2330.28,167.44,0.00,0.00
+438,150,998.91,19817.27,13845.79,3973.65,1997.83,267.41,0.00,0.00
+439,150,1145.11,23185.17,16307.53,4587.43,2290.21,164.45,0.00,0.00
+440,150,1168.83,23419.64,16390.65,4691.33,2337.66,173.58,0.00,0.00
+441,150,1200.21,24197.14,16923.89,4873.83,2399.41,173.58,0.00,0.00
+442,150,1215.01,24084.14,16907.10,4746.03,2431.01,179.94,0.00,0.00
+443,150,1173.81,23659.13,16550.29,4761.22,2347.62,193.38,0.00,0.00
+444,150,1234.18,24497.58,17113.50,4915.72,2468.36,167.44,0.00,0.00
+445,150,1298.03,25901.69,18107.48,5198.14,2596.07,144.97,0.00,0.00
+446,150,1280.81,25589.25,17904.37,5123.25,2561.62,158.63,0.00,0.00
+447,150,1254.17,25002.40,17525.38,4968.68,2508.34,170.48,0.00,0.00
+448,150,1325.01,26740.13,18723.09,5367.03,2650.01,139.85,0.00,0.00
+449,150,1298.98,25728.60,17930.72,5199.92,2597.96,161.51,0.00,0.00
+450,150,1233.85,24884.01,17468.90,4947.40,2467.70,167.44,0.00,0.00
+451,150,1352.18,27046.68,18971.58,5370.73,2704.37,137.35,0.00,0.00
+452,150,1233.82,24524.33,17101.44,4955.26,2467.63,211.60,0.00,0.00
+453,150,1268.92,25223.35,17665.85,5019.67,2537.83,176.73,0.00,0.00
+454,150,1329.26,27030.27,18970.70,5401.05,2658.52,134.90,0.00,0.00
+455,150,1284.83,25317.72,17660.71,5087.34,2569.67,164.45,0.00,0.00
+456,150,1281.18,25797.67,18116.57,5118.73,2562.36,167.44,0.00,0.00
+457,150,1355.76,27158.24,19005.67,5444.05,2708.53,134.90,0.00,0.00
+458,150,1287.22,25860.50,18096.15,5186.90,2577.45,161.51,0.00,0.00
+459,150,1297.05,25803.90,18063.63,5146.18,2594.09,158.63,0.00,0.00
+460,150,1354.98,27073.63,18971.74,5391.93,2709.96,137.35,0.00,0.00
+461,150,1238.81,24757.30,17289.42,4990.25,2477.63,173.58,0.00,0.00
+462,150,1325.44,26401.81,18479.17,5271.76,2650.88,153.02,0.00,0.00
+463,150,1358.68,27417.60,19196.52,5503.72,2717.37,134.90,0.00,0.00
+464,150,1306.07,25958.32,18198.92,5147.26,2612.13,158.63,0.00,0.00
+465,150,1292.78,25914.57,18135.90,5193.11,2585.56,158.63,0.00,0.00
+466,150,1310.21,26274.27,18418.99,5234.85,2620.43,153.02,0.00,0.00
+467,150,1380.75,27433.13,19130.61,5541.02,2761.51,139.85,0.00,0.00
+468,150,1183.30,24021.08,16851.27,4803.22,2366.60,161.51,0.00,0.00
+469,150,1248.55,24911.99,17414.70,5000.19,2497.10,211.60,0.00,0.00
+470,150,1366.03,27191.57,19087.40,5372.11,2732.06,134.90,0.00,0.00
+471,150,1287.34,25924.76,18115.73,5234.37,2574.67,164.45,0.00,0.00
+472,150,1302.57,25904.42,18136.99,5162.29,2605.14,155.80,0.00,0.00
+473,150,1339.45,26951.96,18880.28,5394.79,2676.89,137.35,0.00,0.00
+474,150,1307.99,25884.73,18095.81,5170.95,2617.97,153.02,0.00,0.00
+475,150,1298.83,25745.63,17978.65,5169.32,2597.66,153.02,0.00,0.00
+476,150,1312.65,26555.18,18656.26,5273.62,2625.30,137.35,0.00,0.00
+477,150,1286.51,25850.12,18107.08,5170.02,2573.02,158.63,0.00,0.00
+478,150,1285.62,25696.37,17963.67,5161.47,2571.24,158.63,0.00,0.00
+479,150,1267.41,25354.13,17756.69,5062.62,2534.81,144.97,0.00,0.00
+480,150,1335.76,26628.25,18661.67,5295.06,2671.52,164.45,0.00,0.00
+481,150,1241.67,24905.34,17393.32,5028.69,2483.33,170.48,0.00,0.00
+482,150,1298.36,25798.19,18059.04,5142.45,2596.71,158.63,0.00,0.00
+483,150,1307.20,26415.07,18517.85,5282.81,2614.40,139.85,0.00,0.00
+484,150,1267.46,25410.27,17804.48,5070.86,2534.93,155.80,0.00,0.00
+485,150,1293.52,25639.37,17953.26,5099.06,2587.05,164.45,0.00,0.00
+486,150,1357.62,27164.47,18966.74,5482.48,2715.25,137.35,0.00,0.00
+487,150,1315.21,26332.26,18455.98,5245.85,2630.43,150.29,0.00,0.00
+488,150,1268.14,25209.68,17652.88,5020.53,2536.27,164.45,0.00,0.00
+489,150,1362.02,27402.37,19178.26,5500.07,2724.04,134.90,0.00,0.00
+490,150,1314.78,26086.64,18228.95,5228.13,2629.56,158.63,0.00,0.00
+491,150,1288.23,25867.58,18133.21,5157.91,2576.46,161.51,0.00,0.00
+492,150,1363.97,27437.44,19214.61,5494.89,2727.94,137.35,0.00,0.00
+493,150,1282.78,25475.53,17809.88,5100.11,2565.55,170.48,0.00,0.00
+494,150,1313.33,26304.55,18413.59,5264.31,2626.65,153.02,0.00,0.00
+495,150,1326.53,26621.54,18641.37,5327.11,2653.06,134.90,0.00,0.00
+496,150,1358.40,27051.89,18906.51,5428.58,2716.79,153.02,0.00,0.00
+497,150,1279.74,26018.70,18237.29,5221.94,2559.48,164.45,0.00,0.00
+498,150,1308.26,25902.16,18137.62,5148.03,2616.52,161.51,0.00,0.00
+499,150,1268.31,25225.12,17638.28,5050.23,2536.62,155.80,0.00,0.00
+500,150,1229.72,24323.49,17006.15,4857.90,2459.44,211.60,0.00,0.00
+501,150,1282.80,25867.95,18154.16,5148.19,2565.60,164.45,0.00,0.00
+502,150,1356.12,27104.50,18992.75,5399.50,2712.25,137.35,0.00,0.00
+503,150,1233.85,25448.98,17764.89,5216.38,2467.71,167.44,0.00,0.00
+504,150,1381.26,26905.11,18885.59,5257.00,2762.52,153.02,0.00,0.00
+505,150,1303.00,26144.99,18271.99,5267.00,2606.00,158.63,0.00,0.00
+506,150,1346.41,26764.20,18711.73,5359.64,2692.82,137.35,0.00,0.00
+507,150,1313.37,26319.38,18463.15,5229.49,2626.74,155.80,0.00,0.00
+508,150,1267.19,25577.76,17911.63,5131.75,2534.37,158.63,0.00,0.00
+509,150,1309.83,26082.56,18239.59,5223.31,2619.65,144.97,0.00,0.00
+510,150,1368.24,27308.77,19103.34,5468.96,2736.48,142.39,0.00,0.00
+511,150,1333.74,26477.88,18517.42,5292.98,2667.48,155.80,0.00,0.00
+512,150,1289.08,26013.60,18214.12,5221.32,2578.16,153.02,0.00,0.00
+513,150,1345.10,27018.00,18957.40,5370.40,2690.20,137.35,0.00,0.00
+514,150,1329.77,26153.56,18229.91,5264.11,2659.55,153.02,0.00,0.00
+515,150,1302.44,26304.83,18483.20,5216.75,2604.87,158.63,0.00,0.00
+516,150,1349.60,27262.89,19073.32,5490.37,2699.20,137.35,0.00,0.00
+517,150,1309.20,26013.98,18201.79,5193.80,2618.40,161.51,0.00,0.00
+518,150,1279.86,25456.14,17800.00,5096.43,2559.71,161.51,0.00,0.00
+519,150,1307.12,26115.47,18252.73,5248.50,2614.25,142.39,0.00,0.00
+520,150,1177.86,23534.29,16524.10,4654.46,2355.73,167.44,0.00,0.00
+521,150,1077.15,21825.11,15265.17,4405.63,2154.31,189.93,0.00,0.00
+522,150,1161.72,23396.41,16424.07,4648.89,2323.44,155.80,0.00,0.00
+523,150,1250.29,24695.75,17218.01,4977.16,2500.58,176.73,0.00,0.00
+524,150,1336.75,26832.89,18804.42,5354.98,2673.49,147.61,0.00,0.00
+525,150,1385.27,27965.50,19614.86,5580.10,2770.54,132.49,0.00,0.00
+526,150,1411.54,27848.89,19443.64,5582.17,2823.08,155.80,0.00,0.00
+527,150,1027.32,20827.45,14574.51,4198.30,2054.64,262.64,0.00,0.00
+528,150,1242.92,24658.36,17289.85,4882.68,2485.84,150.29,0.00,0.00
+529,150,1247.32,24699.37,17254.45,4950.28,2494.64,161.51,0.00,0.00
+530,150,1223.73,24638.64,17238.25,4952.92,2447.47,164.45,0.00,0.00
+531,150,1221.84,24262.82,17008.77,4810.37,2443.68,155.80,0.00,0.00
+532,150,1286.22,25838.38,18128.07,5137.87,2572.44,164.45,0.00,0.00
+533,150,1273.81,25486.21,17824.35,5114.24,2547.62,170.48,0.00,0.00
+534,150,1223.19,24794.94,17374.76,4973.79,2446.39,164.45,0.00,0.00
+535,150,1368.98,27401.63,19166.74,5496.92,2737.96,137.35,0.00,0.00
+536,150,1242.80,24307.15,16952.32,4869.23,2485.61,200.47,0.00,0.00
+537,150,1253.18,25569.63,17922.54,5140.73,2506.36,158.63,0.00,0.00
+538,150,1332.16,26402.27,18512.29,5225.65,2664.33,144.97,0.00,0.00
+539,150,1268.66,25309.24,17710.27,5061.65,2537.32,155.80,0.00,0.00
+540,150,1258.63,25253.73,17667.91,5068.56,2517.27,158.63,0.00,0.00
+541,150,1335.35,26537.10,18597.96,5268.44,2670.70,142.39,0.00,0.00
+542,150,1234.16,24894.14,17439.20,4986.63,2468.31,167.44,0.00,0.00
+543,150,1265.81,25364.15,17739.31,5095.23,2529.62,164.45,0.00,0.00
+544,150,1323.76,26427.24,18503.67,5274.05,2649.52,137.35,0.00,0.00
+545,150,1301.44,25881.76,18081.12,5197.76,2602.88,161.51,0.00,0.00
+546,150,1276.75,25514.06,17859.54,5101.01,2553.51,164.45,0.00,0.00
+547,150,1234.32,24992.51,17524.56,4999.30,2468.64,153.02,0.00,0.00
+548,150,1327.32,26329.28,18441.40,5233.25,2654.63,161.51,0.00,0.00
+549,150,1280.63,25615.67,17916.88,5137.53,2561.27,164.45,0.00,0.00
+550,150,1318.01,26392.12,18497.09,5259.02,2636.01,153.02,0.00,0.00
+551,150,1357.78,27219.69,19029.98,5474.13,2715.57,137.35,0.00,0.00
+552,150,1322.19,26100.70,18219.58,5236.74,2644.37,153.02,0.00,0.00
+553,150,1269.94,25865.72,18188.10,5137.75,2539.87,161.51,0.00,0.00
+554,150,1383.88,27179.60,18932.33,5479.52,2767.76,139.85,0.00,0.00
+555,150,1266.87,25580.44,17950.21,5096.49,2533.75,153.02,0.00,0.00
+556,150,1301.29,26142.90,18302.13,5238.18,2602.59,170.48,0.00,0.00
+557,150,1385.82,27511.40,19249.48,5490.28,2771.64,137.35,0.00,0.00
+558,150,1274.16,25947.23,18237.27,5161.64,2548.32,164.45,0.00,0.00
+559,150,1252.76,24847.15,17308.62,5033.02,2505.51,164.45,0.00,0.00
+560,150,1338.30,26688.00,18740.21,5271.18,2676.60,139.85,0.00,0.00
+561,150,1272.94,25532.87,17845.21,5141.77,2545.89,158.63,0.00,0.00
+562,150,1260.80,25299.97,17741.18,5037.20,2521.60,155.80,0.00,0.00
+563,150,1301.21,25840.19,18083.93,5153.84,2602.42,139.85,0.00,0.00
+564,150,1361.06,27351.15,19138.80,5490.23,2722.11,158.63,0.00,0.00
+565,150,1329.96,26318.12,18377.38,5280.82,2659.91,150.29,0.00,0.00
+566,150,1261.59,25471.68,17882.16,5066.35,2523.18,153.02,0.00,0.00
+567,150,1094.33,21923.54,15355.58,4379.31,2188.65,231.53,0.00,0.00
+568,150,1267.87,25492.30,17789.12,5167.45,2535.73,158.63,0.00,0.00
+569,150,1291.15,25451.02,17834.12,5034.60,2582.31,161.51,0.00,0.00
+570,150,1316.76,26188.28,18311.70,5243.06,2633.53,142.39,0.00,0.00
+571,150,1216.49,24720.94,17351.98,4935.98,2432.98,164.45,0.00,0.00
+572,150,1268.47,25171.46,17606.63,5027.89,2536.94,161.51,0.00,0.00
+573,150,1301.25,26132.09,18308.57,5221.02,2602.51,142.39,0.00,0.00
+574,150,1247.99,24996.84,17511.89,4988.97,2495.98,167.44,0.00,0.00
+575,150,1207.12,24129.30,16849.61,4865.46,2414.23,164.45,0.00,0.00
+576,150,1308.78,26015.56,18226.89,5171.12,2617.55,142.39,0.00,0.00
+577,150,1292.13,25899.53,18119.77,5195.51,2584.25,158.63,0.00,0.00
+578,150,1285.98,25538.70,17844.79,5121.94,2571.97,158.63,0.00,0.00
+579,150,1323.82,26611.44,18648.51,5315.29,2647.65,142.39,0.00,0.00
+580,150,1262.88,25230.60,17685.32,5019.52,2525.76,170.48,0.00,0.00
+581,150,1271.28,25523.72,17847.00,5134.15,2542.57,153.02,0.00,0.00
+582,150,1338.03,26816.63,18787.44,5353.13,2676.06,139.85,0.00,0.00
+583,150,1299.98,25848.67,18065.77,5182.93,2599.97,155.80,0.00,0.00
+584,150,1260.78,25581.53,17925.87,5134.10,2521.56,155.80,0.00,0.00
+585,150,1311.25,25888.02,18099.51,5166.00,2622.51,139.85,0.00,0.00
+586,150,1319.78,26660.47,18700.82,5320.10,2639.55,155.80,0.00,0.00
+587,150,1312.20,26162.05,18278.83,5258.81,2624.41,150.29,0.00,0.00
+588,150,1278.60,25232.17,17671.52,5003.45,2557.21,153.02,0.00,0.00
+589,150,1331.42,26958.44,18893.91,5401.69,2662.83,137.35,0.00,0.00
+590,150,1311.00,26109.08,18228.05,5259.02,2622.01,150.29,0.00,0.00
+591,150,1278.81,25477.15,17879.30,5040.24,2557.61,155.80,0.00,0.00
+592,150,1302.17,25975.30,18152.30,5221.66,2601.33,144.97,0.00,0.00
+593,150,1295.81,25853.25,18085.37,5173.25,2594.62,158.63,0.00,0.00
+594,150,1289.64,26055.65,18270.84,5205.53,2579.27,153.02,0.00,0.00
+595,150,1361.09,26966.59,18814.06,5430.35,2722.18,137.35,0.00,0.00
+596,150,1312.53,26276.68,18412.47,5239.14,2625.07,158.63,0.00,0.00
+597,150,1273.07,25760.38,18089.97,5124.27,2546.14,164.45,0.00,0.00
+598,150,1103.66,21969.18,15387.22,4374.64,2207.31,231.53,0.00,0.00
+599,150,1335.35,26572.88,18555.80,5346.38,2670.69,153.02,0.00,0.00
+600,150,1252.01,25238.13,17703.09,5031.03,2504.01,164.45,0.00,0.00
+601,150,1290.75,25851.01,18056.52,5212.99,2581.50,161.51,0.00,0.00
+602,150,1371.26,27554.21,19318.65,5493.04,2742.52,137.35,0.00,0.00
+603,150,1170.80,22956.98,16056.19,4559.20,2341.59,170.48,0.00,0.00
+604,150,1099.17,22333.54,15651.48,4483.71,2198.35,179.94,0.00,0.00
+605,150,1228.86,24297.14,16969.00,4870.43,2457.71,153.02,0.00,0.00
+606,150,484.19,9802.86,6882.71,1951.77,968.38,601.29,0.00,0.00
+607,150,366.85,7193.09,5016.97,1442.42,733.70,657.93,0.00,0.00
+608,150,425.02,8559.43,5995.30,1714.09,850.04,427.07,0.00,0.00
+609,150,411.20,8596.22,6015.95,1757.86,822.40,467.30,0.00,0.00
+610,150,523.95,10091.13,7052.39,1990.83,1047.91,369.77,0.00,0.00
+611,150,370.83,7694.46,5414.51,1538.29,741.66,520.62,0.00,0.00
+612,150,376.20,7513.05,5259.84,1500.81,752.41,493.24,0.00,0.00
+613,150,662.64,13064.93,9127.06,2612.59,1325.28,442.73,0.00,0.00
+614,150,1225.18,24336.48,17013.44,4872.70,2450.35,153.02,0.00,0.00
+615,150,1133.84,22930.78,16106.74,4557.36,2266.68,179.94,0.00,0.00
+616,150,1117.16,22289.28,15606.30,4447.66,2235.33,164.45,0.00,0.00
+617,150,914.82,18321.38,12776.48,3715.27,1829.64,253.35,0.00,0.00
+618,150,910.17,18372.43,12887.40,3664.68,1820.34,227.40,0.00,0.00
+619,150,967.88,19133.53,13415.27,3782.51,1935.75,219.36,0.00,0.00
+620,150,1001.13,19995.59,13977.81,4015.52,2002.26,200.47,0.00,0.00
+621,150,941.87,19038.47,13311.23,3843.49,1883.75,223.34,0.00,0.00
+622,150,934.45,18742.05,13139.35,3733.80,1868.90,207.82,0.00,0.00
+623,150,927.44,18518.88,12986.21,3677.79,1854.89,223.34,0.00,0.00
+624,150,960.24,18928.67,13203.26,3804.94,1920.47,200.47,0.00,0.00
+625,150,954.01,19054.28,13358.20,3788.06,1908.03,223.34,0.00,0.00
+626,150,934.03,18704.63,13083.44,3753.13,1868.06,207.82,0.00,0.00
+627,150,950.80,19266.97,13498.17,3867.19,1901.60,219.36,0.00,0.00
+628,150,1007.30,20180.00,14110.20,4055.21,2014.60,219.36,0.00,0.00
+629,150,968.87,18919.49,13191.25,3790.50,1937.74,215.44,0.00,0.00
+630,150,926.86,18936.20,13360.03,3722.45,1853.73,200.47,0.00,0.00
+631,150,1026.22,20488.42,14323.09,4112.89,2052.44,196.89,0.00,0.00
+632,150,954.99,19269.66,13497.76,3861.92,1909.98,200.47,0.00,0.00
+633,150,986.98,19404.18,13539.38,3890.85,1973.95,200.47,0.00,0.00
+634,150,979.99,19620.83,13764.88,3895.97,1959.98,207.82,0.00,0.00
+635,150,983.77,19885.43,13894.80,4023.07,1967.55,196.89,0.00,0.00
+636,150,977.25,19430.02,13641.52,3833.99,1954.50,207.82,0.00,0.00
+637,150,1051.80,21112.92,14773.14,4236.18,2103.59,196.89,0.00,0.00
+638,150,987.08,19663.67,13733.17,3956.34,1974.17,196.89,0.00,0.00
+639,150,965.89,19404.77,13633.44,3839.56,1931.78,189.93,0.00,0.00
+640,150,976.05,19597.91,13703.64,3942.18,1952.09,211.60,0.00,0.00
+641,150,993.16,19699.08,13732.15,3980.62,1986.31,196.89,0.00,0.00
+642,150,915.17,18143.40,12713.38,3599.67,1830.34,204.11,0.00,0.00
+643,150,928.98,18629.67,13007.77,3763.93,1857.97,207.82,0.00,0.00
+644,150,1028.67,20554.44,14433.40,4063.70,2057.34,211.60,0.00,0.00
+645,150,1381.18,27688.68,19358.57,5567.74,2762.37,153.02,0.00,0.00
+646,150,1129.00,22657.95,15900.97,4498.99,2258.00,179.94,0.00,0.00
+647,150,1196.84,24016.88,16822.82,4800.38,2393.69,164.45,0.00,0.00
+648,150,1170.18,23365.54,16344.48,4680.71,2340.35,176.73,0.00,0.00
+649,150,1131.82,22673.37,15854.46,4555.27,2263.64,170.48,0.00,0.00
+650,150,1139.17,22810.30,16017.32,4514.65,2278.33,176.73,0.00,0.00
+651,150,1197.90,23912.94,16658.56,4858.58,2395.79,167.44,0.00,0.00
+652,150,1242.11,24643.13,17286.50,4872.42,2484.22,164.45,0.00,0.00
+653,150,977.88,19676.62,13780.33,3940.52,1955.76,204.11,0.00,0.00
+654,150,976.39,19346.81,13509.46,3884.57,1952.79,200.47,0.00,0.00
+655,150,964.74,19401.75,13568.33,3903.94,1929.48,200.47,0.00,0.00
+656,150,929.84,18590.71,13043.69,3687.35,1859.67,204.11,0.00,0.00
+657,150,976.42,19623.50,13724.95,3945.71,1952.85,215.44,0.00,0.00
+658,150,961.88,19145.60,13410.32,3811.52,1923.76,196.89,0.00,0.00
+659,150,1013.89,20151.78,14085.45,4038.55,2027.78,200.47,0.00,0.00
+660,150,852.14,17116.82,11988.98,3423.56,1704.28,257.95,0.00,0.00
+661,150,925.83,18698.50,13115.54,3731.30,1851.65,219.36,0.00,0.00
+662,150,951.86,19039.12,13314.99,3820.42,1903.71,204.11,0.00,0.00
+663,150,1006.51,19922.11,13924.07,3985.02,2013.02,196.89,0.00,0.00
+664,150,986.61,19985.17,14024.50,3987.44,1973.23,200.47,0.00,0.00
+665,150,1059.03,21159.68,14812.48,4229.14,2118.07,193.38,0.00,0.00
+666,150,1173.97,23486.43,16425.60,4712.89,2347.94,200.47,0.00,0.00
+667,150,1277.83,25532.54,17928.57,5048.32,2555.65,161.51,0.00,0.00
+668,150,1384.03,27556.68,19254.47,5534.14,2768.07,137.35,0.00,0.00
+669,150,1292.20,25745.04,17965.82,5194.81,2584.41,158.63,0.00,0.00
+670,150,1254.71,25147.25,17629.97,5007.85,2509.43,161.51,0.00,0.00
+671,150,1332.29,26893.94,18879.17,5350.18,2664.59,139.85,0.00,0.00
+672,150,1279.89,25592.84,17881.49,5151.57,2559.78,155.80,0.00,0.00
+673,150,1269.11,25310.29,17694.60,5077.46,2538.23,164.45,0.00,0.00
+674,150,1353.99,27063.72,18990.81,5364.95,2707.97,139.85,0.00,0.00
+675,150,1217.68,24394.64,17056.55,4902.72,2435.36,170.48,0.00,0.00
+676,150,1270.34,25267.67,17660.66,5066.34,2540.67,161.51,0.00,0.00
+677,150,1359.45,27302.94,19149.24,5434.80,2718.90,137.35,0.00,0.00
+678,150,1277.49,25290.65,17680.75,5054.93,2554.98,170.48,0.00,0.00
+679,150,1310.99,26422.85,18515.89,5284.97,2621.98,150.29,0.00,0.00
+680,150,1350.81,26840.22,18763.36,5375.24,2701.62,134.90,0.00,0.00
+681,150,1303.23,26213.66,18384.27,5222.93,2606.46,155.80,0.00,0.00
+682,150,1347.76,26970.15,18860.61,5414.03,2695.52,142.39,0.00,0.00
+683,150,1383.23,27507.65,19183.24,5557.94,2766.47,132.49,0.00,0.00
+684,150,1308.00,26368.91,18546.93,5205.98,2615.99,150.29,0.00,0.00
+685,150,1201.81,23850.15,16647.32,4799.23,2403.61,189.93,0.00,0.00
+686,150,974.26,19577.17,13748.63,3880.02,1948.51,193.38,0.00,0.00
+687,150,1016.75,20121.07,14034.56,4053.01,2033.50,207.82,0.00,0.00
+688,150,955.32,19485.60,13728.65,3846.30,1910.65,200.47,0.00,0.00
+689,150,1003.87,19853.47,13834.24,4011.49,2007.74,204.11,0.00,0.00
+690,150,996.80,20112.94,14078.15,4041.18,1993.60,196.89,0.00,0.00
+691,150,914.11,18151.22,12718.56,3604.44,1828.22,297.92,0.00,0.00
+692,150,1362.33,27421.43,19193.50,5503.28,2724.65,134.90,0.00,0.00
+693,150,1288.65,25851.12,18077.17,5196.64,2577.31,167.44,0.00,0.00
+694,150,1324.49,26252.83,18414.87,5188.99,2648.97,155.80,0.00,0.00
+695,150,1388.51,27649.12,19288.06,5584.04,2777.02,137.35,0.00,0.00
+696,150,1337.02,26669.40,18691.28,5304.08,2674.04,153.02,0.00,0.00
+697,150,1311.80,26375.03,18467.22,5284.21,2623.61,155.80,0.00,0.00
+698,150,1309.21,26299.17,18411.92,5268.84,2618.42,142.39,0.00,0.00
+699,150,1315.01,26296.10,18426.07,5240.02,2630.01,153.02,0.00,0.00
+700,150,1326.79,26476.81,18492.07,5331.16,2653.58,155.80,0.00,0.00
+701,150,1309.96,26376.10,18480.37,5275.82,2619.91,164.45,0.00,0.00
+702,150,1331.23,26423.65,18524.26,5236.92,2662.47,144.97,0.00,0.00
+703,150,1124.02,22646.47,15864.33,4534.09,2248.05,183.21,0.00,0.00
+704,150,1143.89,22727.82,15904.47,4535.57,2287.78,167.44,0.00,0.00
+705,150,1207.10,24075.00,16837.40,4823.40,2414.20,176.73,0.00,0.00
+706,150,1176.46,23787.05,16679.32,4754.81,2352.92,164.45,0.00,0.00
+707,150,1250.48,24824.54,17327.66,4995.92,2500.96,161.51,0.00,0.00
+708,150,1283.10,25678.92,18030.35,5082.38,2566.19,144.97,0.00,0.00
+709,150,1234.78,24804.52,17325.87,5009.10,2469.55,167.44,0.00,0.00
+710,150,1372.27,27434.30,19185.71,5504.06,2744.53,164.45,0.00,0.00
+711,150,1114.78,22446.60,15738.91,4478.12,2229.56,267.41,0.00,0.00
+712,150,1236.27,24614.38,17214.76,4927.08,2472.54,170.48,0.00,0.00
+713,150,1201.87,23994.30,16821.11,4769.46,2403.73,173.58,0.00,0.00
+714,150,1318.93,26530.53,18544.97,5347.70,2637.85,142.39,0.00,0.00
+715,150,1174.79,23464.84,16465.05,4650.21,2349.58,179.94,0.00,0.00
+716,150,1245.39,24556.36,17156.11,4909.47,2490.77,158.63,0.00,0.00
+717,150,1284.86,26050.25,18286.07,5194.45,2569.73,142.39,0.00,0.00
+718,150,1217.17,24564.42,17159.39,4970.69,2434.34,161.51,0.00,0.00
+719,150,1255.88,24867.63,17396.34,4959.53,2511.76,161.51,0.00,0.00
+720,150,1255.17,24961.45,17478.42,4972.69,2510.35,173.58,0.00,0.00
+721,150,1252.16,25275.31,17688.31,5082.66,2504.33,164.45,0.00,0.00
+722,150,1204.15,23968.96,16765.07,4795.59,2408.30,176.73,0.00,0.00
+723,150,1311.47,26110.42,18263.60,5225.88,2620.94,142.39,0.00,0.00
+724,150,1314.25,26244.93,18403.46,5210.98,2630.49,153.02,0.00,0.00
+725,150,1298.72,25939.47,18187.12,5154.90,2597.45,164.45,0.00,0.00
+726,150,1352.53,27265.76,19062.52,5498.17,2705.07,134.90,0.00,0.00
+727,150,1292.55,25545.04,17844.74,5115.21,2585.09,158.63,0.00,0.00
+728,150,1273.18,25523.60,17849.52,5127.72,2546.36,153.02,0.00,0.00
+729,150,1336.01,26816.30,18815.21,5329.06,2672.03,137.35,0.00,0.00
+730,150,1228.82,24619.39,17228.47,4933.28,2457.64,207.82,0.00,0.00
+731,150,1286.95,25641.95,17956.27,5111.79,2573.89,155.80,0.00,0.00
+732,150,1352.20,27116.94,18979.76,5432.79,2704.39,139.85,0.00,0.00
+733,150,1274.02,25683.39,17983.28,5152.08,2548.04,158.63,0.00,0.00
+734,150,1319.99,26026.87,18181.91,5204.97,2639.99,153.02,0.00,0.00
+735,150,1272.76,25451.14,17825.60,5080.03,2545.51,142.39,0.00,0.00
+736,150,1341.28,26814.59,18769.91,5371.12,2673.56,153.02,0.00,0.00
+737,150,1296.69,26033.83,18253.68,5177.77,2602.38,150.29,0.00,0.00
+738,150,1301.07,26420.40,18490.98,5327.28,2602.14,153.02,0.00,0.00
+739,150,1311.84,25837.85,18090.79,5123.37,2623.68,161.51,0.00,0.00
+740,150,1315.31,26405.16,18465.31,5309.24,2630.61,158.63,0.00,0.00
+741,150,1331.05,26490.98,18532.69,5296.20,2662.10,147.61,0.00,0.00
+742,150,1362.75,27321.94,19132.46,5463.99,2725.50,139.85,0.00,0.00
+743,150,1321.25,26341.03,18476.53,5222.00,2642.50,153.02,0.00,0.00
+744,150,1305.99,26447.87,18494.91,5340.97,2611.99,150.29,0.00,0.00
+745,150,1360.77,27278.30,19096.71,5460.06,2721.53,137.35,0.00,0.00
+746,150,1316.25,26109.04,18293.53,5183.00,2632.51,153.02,0.00,0.00
+747,150,1329.78,26391.65,18435.96,5296.13,2659.56,150.29,0.00,0.00
+748,150,1370.17,27428.46,19224.43,5463.69,2740.35,139.85,0.00,0.00
+749,150,1200.81,24093.21,16835.35,4856.24,2401.62,186.54,0.00,0.00
+750,150,1340.69,26769.75,18740.63,5347.75,2681.38,134.90,0.00,0.00
+751,150,1340.34,26984.63,18913.63,5390.33,2680.67,155.80,0.00,0.00
+752,150,1317.22,26154.33,18292.03,5227.87,2634.44,155.80,0.00,0.00
+753,150,1084.03,21724.52,15232.36,4324.10,2168.05,244.38,0.00,0.00
+754,150,1366.96,27300.12,19048.39,5517.82,2733.91,144.97,0.00,0.00
+755,150,1292.78,25907.64,18145.95,5176.13,2585.56,153.02,0.00,0.00
+756,150,1315.21,26148.16,18295.91,5221.83,2630.42,150.29,0.00,0.00
+757,150,1327.25,26939.69,18954.23,5330.97,2654.49,137.35,0.00,0.00
+758,150,1311.74,26092.74,18180.27,5288.99,2623.48,158.63,0.00,0.00
+759,150,1236.99,24580.83,17243.88,4862.97,2473.98,167.44,0.00,0.00
+760,150,1356.83,27124.59,18968.62,5442.32,2713.66,137.35,0.00,0.00
+761,150,1246.19,24986.77,17466.64,5027.76,2492.38,161.51,0.00,0.00
+762,150,1295.80,25878.99,18118.19,5169.20,2591.60,167.44,0.00,0.00
+763,150,1335.20,26878.00,18821.80,5385.80,2670.40,137.35,0.00,0.00
+764,150,1259.01,25244.11,17705.08,5021.02,2518.01,158.63,0.00,0.00
+765,150,1308.80,25972.00,18160.21,5194.20,2617.60,164.45,0.00,0.00
+766,150,1319.47,26754.57,18749.70,5365.92,2638.94,137.35,0.00,0.00
+767,150,1314.54,25845.94,18075.66,5141.20,2629.08,153.02,0.00,0.00
+768,150,1138.21,22865.19,16017.94,4570.84,2276.42,193.38,0.00,0.00
+769,150,989.96,19843.23,13928.46,3934.85,1979.92,193.38,0.00,0.00
+770,150,1000.86,19886.21,13847.06,4037.43,2001.72,200.47,0.00,0.00
+771,150,983.49,19704.84,13789.88,3947.97,1966.98,196.89,0.00,0.00
+772,150,1008.64,20100.84,14067.99,4015.57,2017.28,207.82,0.00,0.00
+773,150,1335.83,26994.51,18924.55,5398.30,2671.65,139.85,0.00,0.00
+774,150,1329.11,26514.19,18555.53,5300.44,2658.22,153.02,0.00,0.00
+775,150,1297.86,25864.28,18111.10,5157.46,2595.73,158.63,0.00,0.00
+776,150,1361.20,27101.04,18966.83,5411.81,2722.41,139.85,0.00,0.00
+777,150,1322.73,26763.63,18754.24,5363.92,2645.47,147.61,0.00,0.00
+778,150,1329.27,26249.38,18316.75,5274.08,2658.54,155.80,0.00,0.00
+779,150,1331.79,26939.81,18932.06,5344.17,2663.59,134.90,0.00,0.00
+780,150,1363.21,26986.15,18861.90,5397.83,2726.42,158.63,0.00,0.00
+781,150,1289.02,26011.32,18246.23,5187.06,2578.03,161.51,0.00,0.00
+782,150,1275.72,25255.50,17610.17,5093.89,2551.44,155.80,0.00,0.00
+783,150,1358.29,27187.84,19046.09,5425.17,2716.58,164.45,0.00,0.00
+784,150,1087.96,21901.13,15332.39,4392.82,2175.91,272.27,0.00,0.00
+785,150,1322.84,26393.73,18498.71,5249.35,2645.67,155.80,0.00,0.00
+786,150,1344.18,27175.61,19046.53,5440.72,2688.36,137.35,0.00,0.00
+787,150,1097.81,21768.31,15200.42,4372.26,2195.63,186.54,0.00,0.00
+788,150,1195.17,23922.33,16753.33,4778.67,2390.33,167.44,0.00,0.00
+789,150,1279.95,25428.98,17748.29,5120.80,2559.90,144.97,0.00,0.00
+790,150,1250.97,24923.41,17430.58,4990.88,2501.94,161.51,0.00,0.00
+791,150,1168.14,23671.80,16666.97,4668.55,2336.28,207.82,0.00,0.00
+792,150,1315.15,26098.05,18201.13,5266.62,2630.31,142.39,0.00,0.00
+793,150,1281.62,25707.40,18011.67,5132.48,2563.24,155.80,0.00,0.00
+794,150,1288.20,25727.06,18005.84,5144.81,2576.41,155.80,0.00,0.00
+795,150,1306.21,26293.22,18453.96,5226.84,2612.42,139.85,0.00,0.00
+796,150,1306.61,26191.21,18349.54,5228.45,2613.22,158.63,0.00,0.00
+797,150,1124.13,22560.59,15807.81,4504.52,2248.26,240.02,0.00,0.00
+798,150,1430.81,28473.26,19886.38,5725.25,2861.62,147.61,0.00,0.00
+799,150,1445.26,28766.20,20132.64,5743.04,2890.52,127.81,0.00,0.00
+800,150,1420.47,28528.35,20001.53,5685.88,2840.94,144.97,0.00,0.00
+801,150,1290.45,25607.93,17861.23,5165.80,2580.90,161.51,0.00,0.00
+802,150,1263.83,25334.52,17717.56,5089.30,2527.65,150.29,0.00,0.00
+803,150,1217.17,24336.39,17048.38,4853.68,2434.34,164.45,0.00,0.00
+804,150,1200.01,24188.20,16959.14,4829.04,2400.02,161.51,0.00,0.00
+805,150,1262.15,25131.00,17587.10,5019.60,2524.30,150.29,0.00,0.00
+806,150,1234.80,24529.06,17161.25,4898.21,2469.60,161.51,0.00,0.00
+807,150,1198.09,24100.83,16886.28,4818.37,2396.18,176.73,0.00,0.00
+808,150,1221.97,24388.49,17051.64,4892.90,2443.95,155.80,0.00,0.00
+809,150,1287.82,25926.36,18177.45,5173.27,2575.64,153.02,0.00,0.00
+810,150,1239.13,24918.69,17436.88,5003.54,2478.27,183.21,0.00,0.00
+811,150,1355.18,26663.55,18634.48,5318.71,2710.36,134.90,0.00,0.00
+812,150,1296.86,26143.11,18345.97,5203.43,2593.71,150.29,0.00,0.00
+813,150,1283.81,25823.17,18064.32,5191.23,2567.62,158.63,0.00,0.00
+814,150,1274.19,25510.76,17867.63,5094.75,2548.38,153.02,0.00,0.00
+815,150,1230.78,24320.71,16999.00,4860.14,2461.57,215.44,0.00,0.00
+816,150,1256.23,25474.62,17827.23,5134.93,2512.46,155.80,0.00,0.00
+817,150,1296.06,25616.13,17947.79,5076.22,2592.11,155.80,0.00,0.00
+818,150,1359.93,27059.53,18902.97,5436.70,2719.85,137.35,0.00,0.00
+819,150,1208.76,24379.08,17076.55,4885.01,2417.51,167.44,0.00,0.00
+820,150,1296.26,25956.28,18237.71,5126.04,2592.53,158.63,0.00,0.00
+821,150,1320.02,26498.39,18503.27,5355.08,2640.04,142.39,0.00,0.00
+822,150,1282.70,25594.01,17918.81,5109.80,2565.40,153.02,0.00,0.00
+823,150,1300.30,25742.92,18003.14,5139.18,2600.60,158.63,0.00,0.00
+824,150,1300.34,26236.76,18420.75,5215.34,2600.67,139.85,0.00,0.00
+825,150,1318.38,26419.59,18464.32,5318.50,2636.76,161.51,0.00,0.00
+826,150,1326.21,26527.26,18560.98,5313.85,2652.43,150.29,0.00,0.00
+827,150,1326.04,26490.81,18556.57,5282.16,2652.08,153.02,0.00,0.00
+828,150,1354.76,27131.26,18991.68,5430.05,2709.53,134.90,0.00,0.00
+829,150,1305.25,26020.99,18174.48,5236.00,2610.50,147.61,0.00,0.00
+830,150,1329.81,26360.33,18453.43,5247.27,2659.63,153.02,0.00,0.00
+831,150,1314.17,26665.46,18722.43,5314.69,2628.34,137.35,0.00,0.00
+832,150,1322.81,26191.31,18275.43,5270.26,2645.63,153.02,0.00,0.00
+833,150,1331.21,26634.29,18628.00,5343.86,2662.43,150.29,0.00,0.00
+834,150,1360.76,27406.19,19260.62,5424.05,2721.52,134.90,0.00,0.00
+835,150,1278.19,25614.84,17921.69,5136.77,2556.38,155.80,0.00,0.00
+836,150,1347.93,26625.60,18603.02,5326.72,2695.86,153.02,0.00,0.00
+837,150,1314.31,26597.32,18618.42,5350.27,2628.62,137.35,0.00,0.00
+838,150,1339.78,26523.74,18538.02,5306.15,2679.57,153.02,0.00,0.00
+839,150,1292.76,26193.16,18406.60,5201.04,2585.52,153.02,0.00,0.00
+840,150,1344.24,26544.81,18538.36,5317.96,2688.49,144.97,0.00,0.00
+841,150,1355.99,27047.85,18901.89,5433.97,2711.98,142.39,0.00,0.00
+842,150,1242.79,25227.74,17714.01,5028.15,2485.58,153.02,0.00,0.00
+843,150,1264.82,25288.49,17708.54,5050.30,2529.65,158.63,0.00,0.00
+844,150,1360.40,27103.97,18951.57,5431.60,2720.80,139.85,0.00,0.00
+845,150,1277.01,25350.16,17723.11,5073.03,2554.02,161.51,0.00,0.00
+846,150,1027.00,20767.93,14546.95,4166.99,2053.99,235.74,0.00,0.00
+847,150,1367.01,27191.15,19050.10,5407.03,2734.01,137.35,0.00,0.00
+848,150,1272.01,25440.10,17746.07,5150.02,2544.01,167.44,0.00,0.00
+849,150,1261.82,25313.38,17797.45,4992.29,2523.64,158.63,0.00,0.00
+850,150,1355.85,26934.09,18827.96,5394.42,2711.71,139.85,0.00,0.00
+851,150,1286.28,25883.70,18107.99,5203.15,2572.57,161.51,0.00,0.00
+852,150,1283.06,25686.11,18016.78,5103.22,2566.11,161.51,0.00,0.00
+853,150,1331.70,26650.90,18665.73,5321.78,2663.39,139.85,0.00,0.00
+854,150,1309.29,26123.74,18240.01,5272.16,2611.57,161.51,0.00,0.00
+855,150,1311.81,26322.14,18413.30,5278.23,2630.61,158.63,0.00,0.00
+856,150,1362.17,27021.46,18919.43,5377.69,2724.35,134.90,0.00,0.00
+857,150,1274.87,25779.35,18064.15,5165.47,2549.74,164.45,0.00,0.00
+858,150,1301.16,25937.23,18165.26,5169.64,2602.32,164.45,0.00,0.00
+859,150,1360.00,27256.96,19108.97,5427.99,2720.00,137.35,0.00,0.00
+860,150,1305.78,25992.53,18180.87,5200.11,2611.55,161.51,0.00,0.00
+861,150,1318.21,26214.25,18280.96,5296.86,2636.43,155.80,0.00,0.00
+862,150,1336.47,26884.26,18845.47,5365.86,2672.93,142.39,0.00,0.00
+863,150,1253.52,25502.60,17915.45,5080.11,2507.04,167.44,0.00,0.00
+864,150,1322.56,25895.47,18052.06,5198.29,2645.13,164.45,0.00,0.00
+865,150,1359.44,27419.96,19185.27,5515.80,2718.89,134.90,0.00,0.00
+866,150,1296.81,25936.15,18204.29,5138.24,2593.61,161.51,0.00,0.00
+867,150,1292.16,25726.21,17993.25,5148.64,2584.32,161.51,0.00,0.00
+868,150,1351.33,27024.55,18930.58,5391.32,2702.65,137.35,0.00,0.00
+869,150,1064.54,21286.77,14863.52,4294.17,2129.08,196.89,0.00,0.00
+870,150,1188.54,23900.76,16776.51,4747.16,2377.08,167.44,0.00,0.00
+871,150,1254.47,25249.47,17664.62,5075.90,2508.94,147.61,0.00,0.00
+872,150,1242.82,24450.37,17088.46,4876.28,2485.63,155.80,0.00,0.00
+873,150,1238.22,25148.38,17661.08,5010.87,2476.43,167.44,0.00,0.00
+874,150,1328.00,26598.94,18561.96,5380.99,2655.99,139.85,0.00,0.00
+875,150,1282.83,25721.55,18054.58,5101.32,2565.66,161.51,0.00,0.00
+876,150,1311.16,25797.10,18028.17,5146.62,2622.32,153.02,0.00,0.00
+877,150,1150.85,23201.90,16261.82,4638.38,2301.69,240.02,0.00,0.00
+878,150,1286.18,25859.58,18103.51,5183.72,2572.36,161.51,0.00,0.00
+879,150,1300.76,25732.35,17951.75,5179.06,2601.53,158.63,0.00,0.00
+880,150,1323.11,26371.23,18473.56,5251.44,2646.22,139.85,0.00,0.00
+881,150,1279.66,25843.20,18104.24,5179.64,2559.33,158.63,0.00,0.00
+882,150,1254.46,25145.24,17632.48,5003.84,2508.92,161.51,0.00,0.00
+883,150,1242.05,24960.92,17473.64,5003.18,2484.09,144.97,0.00,0.00
+884,150,1349.70,26910.03,18825.82,5384.81,2699.40,161.51,0.00,0.00
+885,150,1303.24,25828.68,18069.28,5152.93,2606.47,161.51,0.00,0.00
+886,150,1250.81,25206.17,17687.31,5017.24,2501.62,150.29,0.00,0.00
+887,150,1306.18,25814.53,18011.46,5190.71,2612.36,158.63,0.00,0.00
+888,150,1237.83,24968.52,17494.56,4998.30,2475.66,170.48,0.00,0.00
+889,150,1396.22,27866.32,19475.02,5598.87,2792.43,147.61,0.00,0.00
+890,150,1401.77,28133.43,19764.79,5565.10,2803.54,130.13,0.00,0.00
+891,150,1409.80,28253.92,19763.14,5671.18,2819.59,142.39,0.00,0.00
+892,150,1236.25,24560.95,17158.46,4929.99,2472.50,173.58,0.00,0.00
+893,150,1230.09,24656.74,17292.22,4904.35,2460.17,150.29,0.00,0.00
+894,150,1215.77,24329.48,17008.84,4889.09,2431.55,167.44,0.00,0.00
+895,150,1188.65,23625.95,16514.07,4743.58,2368.29,173.58,0.00,0.00
+896,150,1264.65,25664.91,18022.02,5104.59,2538.30,144.97,0.00,0.00
+897,150,1233.70,24431.91,17094.73,4869.77,2467.40,164.45,0.00,0.00
+898,150,1262.55,25194.05,17621.74,5047.21,2525.10,153.02,0.00,0.00
+899,150,1232.69,24759.81,17341.67,4952.76,2465.38,144.97,0.00,0.00
+900,150,1283.68,25646.70,17932.61,5146.72,2567.37,167.44,0.00,0.00
+901,150,1284.47,25706.47,18003.64,5133.89,2568.94,153.02,0.00,0.00
+902,150,1303.56,25701.34,17907.96,5186.25,2607.12,153.02,0.00,0.00
+903,150,1316.49,26725.67,18795.73,5296.95,2632.98,137.35,0.00,0.00
+904,150,1282.44,25497.72,17840.10,5092.74,2564.88,161.51,0.00,0.00
+905,150,1223.04,24892.84,17454.59,4992.17,2446.08,173.58,0.00,0.00
+906,150,1333.45,26491.96,18530.27,5294.79,2666.90,139.85,0.00,0.00
+907,150,1205.59,24060.79,16836.25,4813.36,2411.18,170.48,0.00,0.00
+908,150,1061.29,21141.71,14811.00,4208.14,2122.57,235.74,0.00,0.00
+909,150,1305.03,26032.56,18185.39,5237.11,2610.06,142.39,0.00,0.00
+910,150,1231.81,24981.16,17515.31,5002.23,2463.62,155.80,0.00,0.00
+911,150,1260.01,24969.17,17473.12,4976.03,2520.02,161.51,0.00,0.00
+912,150,1204.19,24122.84,16891.69,4822.77,2408.38,147.61,0.00,0.00
+913,150,1326.74,26275.79,18380.36,5241.96,2653.47,167.44,0.00,0.00
+914,150,1233.21,24860.13,17395.89,4997.83,2466.41,161.51,0.00,0.00
+915,150,1239.03,24662.67,17237.47,4947.13,2478.07,167.44,0.00,0.00
+916,150,1296.80,25886.98,18120.19,5173.20,2593.60,142.39,0.00,0.00
+917,150,1275.13,25339.61,17737.83,5051.52,2550.26,161.51,0.00,0.00
+918,150,1262.89,25490.78,17880.44,5084.56,2525.78,167.44,0.00,0.00
+919,150,1314.12,26421.32,18511.62,5281.46,2628.23,142.39,0.00,0.00
+920,150,1280.39,25508.75,17819.44,5128.54,2560.77,155.80,0.00,0.00
+921,150,1236.65,24722.97,17286.07,4963.60,2473.30,158.63,0.00,0.00
+922,150,1312.72,26171.37,18373.05,5172.89,2625.44,144.97,0.00,0.00
+923,150,1231.28,24641.53,17242.87,4936.11,2462.55,170.48,0.00,0.00
+924,150,1251.79,25008.80,17488.07,5017.16,2503.58,167.44,0.00,0.00
+925,150,1272.16,25598.22,17926.25,5127.64,2544.32,144.97,0.00,0.00
+926,150,1232.04,24638.83,17264.58,4910.17,2464.08,161.51,0.00,0.00
+927,150,1260.75,25146.93,17564.46,5060.98,2521.49,161.51,0.00,0.00
+928,150,1288.24,25732.71,18000.30,5155.94,2576.47,144.97,0.00,0.00
+929,150,1259.04,25095.78,17568.54,5009.15,2518.08,161.51,0.00,0.00
+930,150,1232.82,25008.25,17542.37,5000.25,2465.63,161.51,0.00,0.00
+931,150,1312.18,25829.56,18016.49,5188.72,2624.36,144.97,0.00,0.00
+932,150,1239.01,24952.18,17500.12,4974.04,2478.02,170.48,0.00,0.00
+933,150,1239.81,25277.17,17705.32,5092.23,2479.62,158.63,0.00,0.00
+934,150,1344.20,26435.88,18492.71,5254.77,2688.39,144.97,0.00,0.00
+935,150,1234.80,24582.02,17227.21,4885.21,2469.60,161.51,0.00,0.00
+936,150,1229.05,24619.98,17230.69,4931.20,2458.10,167.44,0.00,0.00
+937,150,1287.81,25767.19,18056.33,5135.24,2575.62,144.97,0.00,0.00
+938,150,1230.36,24804.34,17382.14,4961.47,2460.73,161.51,0.00,0.00
+939,150,999.75,19845.14,13877.60,3968.03,1999.51,262.64,0.00,0.00
+940,150,1198.23,24141.59,16877.21,4867.93,2396.46,150.29,0.00,0.00
+941,150,1281.74,25459.86,17840.40,5055.98,2563.48,158.63,0.00,0.00
+942,150,1187.57,23795.48,16656.03,4764.30,2375.15,167.44,0.00,0.00
+943,150,1211.70,24201.96,16956.77,4821.80,2423.40,167.44,0.00,0.00
+944,150,1275.81,25618.09,17892.27,5174.21,2551.61,147.61,0.00,0.00
+945,150,1208.12,24064.32,16857.63,4790.46,2416.23,167.44,0.00,0.00
+946,150,1261.04,25176.76,17589.53,5065.15,2522.08,158.63,0.00,0.00
+947,150,1320.99,26474.80,18593.86,5238.96,2641.98,139.85,0.00,0.00
+948,150,1248.59,24813.76,17308.25,5008.34,2497.17,167.44,0.00,0.00
+949,150,1270.45,25586.97,17931.29,5114.79,2540.89,161.51,0.00,0.00
+950,150,1293.02,25773.33,18073.23,5114.07,2586.03,144.97,0.00,0.00
+951,150,1286.79,25762.87,17997.11,5192.17,2573.59,150.29,0.00,0.00
+952,150,1266.20,25541.05,17906.84,5101.81,2532.40,164.45,0.00,0.00
+953,150,1083.83,21364.58,14939.61,4257.32,2167.65,183.21,0.00,0.00
+954,150,1079.14,21679.89,15190.02,4331.58,2158.29,196.89,0.00,0.00
+955,150,728.19,14603.82,10256.68,2890.76,1456.38,344.08,0.00,0.00
+956,150,290.95,5823.09,4082.36,1158.82,581.91,682.06,0.00,0.00
+957,150,392.91,7943.22,5530.76,1626.64,785.82,511.33,0.00,0.00
+958,150,468.07,9112.35,6351.94,1824.27,936.14,450.77,0.00,0.00
+959,150,464.87,9264.31,6473.12,1861.46,929.73,419.45,0.00,0.00
+960,150,387.06,7890.21,5565.85,1550.24,774.12,475.79,0.00,0.00
+961,150,587.08,11793.61,8226.12,2393.33,1174.16,376.49,0.00,0.00
+962,150,606.95,12232.06,8606.34,2411.81,1213.91,320.17,0.00,0.00
+963,150,960.03,19236.51,13431.36,3885.10,1920.05,262.64,0.00,0.00
+964,150,1072.49,21103.02,14739.03,4219.00,2144.99,186.54,0.00,0.00
+965,150,1037.55,20845.98,14629.70,4141.18,2075.09,200.47,0.00,0.00
+966,150,1125.75,22639.94,15856.46,4531.99,2251.50,170.48,0.00,0.00
+967,150,1003.07,20154.46,14102.02,4046.29,2006.15,179.94,0.00,0.00
+968,150,873.10,17340.00,12164.40,3429.39,1746.20,235.74,0.00,0.00
+969,150,978.89,19342.87,13496.52,3888.57,1957.78,204.11,0.00,0.00
+970,150,753.39,15453.03,10845.64,3100.61,1506.78,287.38,0.00,0.00
+971,150,894.60,17662.16,12335.52,3537.43,1789.21,215.44,0.00,0.00
+972,150,894.75,18252.88,12786.42,3676.97,1789.50,223.34,0.00,0.00
+973,150,851.48,16732.45,11692.60,3336.88,1702.96,223.34,0.00,0.00
+974,150,876.45,17580.06,12364.31,3462.85,1752.91,223.34,0.00,0.00
+975,150,927.38,18377.61,12787.29,3735.55,1854.77,223.34,0.00,0.00
+976,150,891.96,17767.26,12459.48,3523.85,1783.93,215.44,0.00,0.00
+977,150,903.82,18531.28,13004.39,3719.25,1807.64,211.60,0.00,0.00
+978,150,902.12,17830.46,12468.72,3557.49,1804.25,215.44,0.00,0.00
+979,150,879.85,17512.96,12246.88,3506.39,1759.69,223.34,0.00,0.00
+980,150,884.30,17602.02,12314.21,3519.20,1768.61,231.53,0.00,0.00
+981,150,844.12,17106.39,12016.68,3401.48,1688.24,240.02,0.00,0.00
+982,150,906.80,17816.05,12419.25,3583.21,1813.60,219.36,0.00,0.00
+983,150,906.98,18245.61,12788.72,3642.92,1813.96,207.82,0.00,0.00
+984,150,847.32,16962.42,11865.49,3402.29,1694.64,223.34,0.00,0.00
+985,150,865.59,17783.53,12455.07,3597.29,1731.18,215.44,0.00,0.00
+986,150,866.11,17151.17,12021.52,3397.43,1732.22,219.36,0.00,0.00
+987,150,949.99,18749.76,13101.83,3747.95,1899.98,211.60,0.00,0.00
+988,150,828.84,16688.87,11717.80,3313.38,1657.69,219.36,0.00,0.00
+989,150,878.10,17751.02,12411.41,3583.41,1756.20,223.34,0.00,0.00
+990,150,927.63,18400.67,12896.86,3648.55,1855.26,211.60,0.00,0.00
+991,150,947.48,18846.52,13173.66,3777.91,1894.96,204.11,0.00,0.00
+992,150,870.93,17556.56,12272.99,3541.71,1741.86,227.40,0.00,0.00
+993,150,931.89,18644.87,13072.51,3708.58,1863.79,200.47,0.00,0.00
+994,150,953.17,18843.37,13182.36,3754.67,1906.34,207.82,0.00,0.00
+995,150,899.09,17931.89,12530.32,3603.38,1798.19,211.60,0.00,0.00
+996,150,943.95,18932.98,13266.28,3778.80,1887.90,211.60,0.00,0.00
+997,150,888.60,17860.93,12543.34,3540.40,1777.20,219.36,0.00,0.00
+998,150,906.35,18045.04,12606.92,3625.41,1812.71,207.82,0.00,0.00
+999,150,897.05,18029.93,12634.65,3601.19,1794.09,207.82,0.00,0.00
+1000,150,857.67,17367.25,12156.28,3495.64,1715.33,240.02,0.00,0.00
+1001,150,757.26,15012.11,10485.57,3012.03,1514.52,308.84,0.00,0.00
+1002,150,862.78,17195.53,12004.88,3465.10,1725.55,227.40,0.00,0.00
+1003,150,975.24,19302.71,13531.30,3820.93,1950.48,211.60,0.00,0.00
+1004,150,840.00,17050.04,11962.03,3408.01,1680.00,227.40,0.00,0.00
+1005,150,843.89,16747.84,11704.49,3355.57,1687.78,223.34,0.00,0.00
+1006,150,833.21,16766.32,11722.02,3377.87,1666.43,235.74,0.00,0.00
+1007,150,904.88,17973.71,12606.40,3557.55,1809.77,211.60,0.00,0.00
+1008,150,898.00,17923.94,12530.96,3596.99,1795.99,215.44,0.00,0.00
+1009,150,927.98,18728.56,13144.69,3727.91,1855.96,207.82,0.00,0.00
+1010,150,872.94,17345.83,12125.18,3474.77,1745.88,223.34,0.00,0.00
+1011,150,866.09,17464.82,12239.28,3493.36,1732.18,215.44,0.00,0.00
+1012,150,855.00,16921.06,11805.04,3406.01,1710.01,240.02,0.00,0.00
+1013,150,949.80,18908.06,13244.24,3764.22,1899.60,207.82,0.00,0.00
+1014,150,1027.21,20866.34,14623.04,4188.87,2054.43,219.36,0.00,0.00
+1015,150,1323.80,26357.99,18456.19,5254.20,2647.60,142.39,0.00,0.00
+1016,150,1246.20,24743.89,17294.72,4956.78,2492.39,164.45,0.00,0.00
+1017,150,1262.62,25410.36,17832.64,5052.48,2525.24,164.45,0.00,0.00
+1018,150,1337.37,26561.42,18566.18,5323.49,2671.75,139.85,0.00,0.00
+1019,150,1276.02,25766.38,18048.27,5163.08,2555.04,155.80,0.00,0.00
+1020,150,1269.81,25477.23,17826.36,5111.24,2539.62,164.45,0.00,0.00
+1021,150,1285.16,25530.13,17859.19,5100.62,2570.31,144.97,0.00,0.00
+1022,150,1174.73,23524.51,16491.15,4683.91,2349.45,219.36,0.00,0.00
+1023,150,1245.31,24890.23,17382.35,5017.26,2490.62,167.44,0.00,0.00
+1024,150,1274.13,25574.66,17955.87,5070.53,2548.26,161.51,0.00,0.00
+1025,150,1258.66,25034.14,17512.20,5004.63,2517.31,161.51,0.00,0.00
+1026,150,1279.23,25523.52,17837.16,5127.91,2558.45,150.29,0.00,0.00
+1027,150,1240.78,25117.63,17600.94,5035.12,2481.57,147.61,0.00,0.00
+1028,150,1342.20,26409.90,18401.72,5323.79,2684.40,153.02,0.00,0.00
+1029,150,1288.63,25806.67,18114.86,5116.55,2575.27,155.80,0.00,0.00
+1030,150,1254.33,25172.55,17608.58,5053.31,2510.65,164.45,0.00,0.00
+1031,150,1300.03,26163.66,18356.47,5207.13,2600.07,142.39,0.00,0.00
+1032,150,1236.82,24756.38,17358.46,4924.28,2473.64,167.44,0.00,0.00
+1033,150,1177.17,23706.34,16602.34,4749.67,2354.33,200.47,0.00,0.00
+1034,150,1336.74,26290.83,18309.40,5307.96,2673.47,150.29,0.00,0.00
+1035,150,1239.25,25147.00,17676.52,4991.99,2478.49,167.44,0.00,0.00
+1036,150,1235.78,24659.59,17190.92,4997.11,2471.56,164.45,0.00,0.00
+1037,150,1342.21,26591.17,18648.92,5257.82,2684.42,142.39,0.00,0.00
+1038,150,1237.64,24937.67,17466.86,4995.53,2475.27,164.45,0.00,0.00
+1039,150,1226.38,24651.64,17261.35,4937.53,2452.76,167.44,0.00,0.00
+1040,150,1323.98,26337.68,18412.77,5276.94,2647.97,144.97,0.00,0.00
+1041,150,1237.74,24990.77,17541.33,4973.96,2475.48,158.63,0.00,0.00
+1042,150,1281.03,25257.64,17637.45,5058.13,2562.06,167.44,0.00,0.00
+1043,150,1226.24,24422.70,17089.29,4880.94,2452.47,176.73,0.00,0.00
+1044,150,1221.01,24468.16,17105.11,4921.03,2442.02,167.44,0.00,0.00
+1045,150,1269.60,25470.00,17849.40,5081.40,2539.20,161.51,0.00,0.00
+1046,150,1277.41,25649.15,17998.72,5095.62,2554.81,142.39,0.00,0.00
+1047,150,1250.78,25081.53,17542.87,5037.10,2501.55,158.63,0.00,0.00
+1048,150,1227.21,24425.09,17074.86,4895.82,2454.41,161.51,0.00,0.00
+1049,150,1303.88,26357.52,18482.26,5267.50,2607.75,142.39,0.00,0.00
+1050,150,1299.13,25787.58,18043.81,5145.52,2598.26,164.45,0.00,0.00
+1051,150,1271.81,25406.25,17769.38,5093.25,2543.62,158.63,0.00,0.00
+1052,150,1196.18,23935.62,16811.54,4731.72,2392.36,170.48,0.00,0.00
+1053,150,1117.99,22356.89,15604.92,4515.98,2235.99,235.74,0.00,0.00
+1054,150,1304.73,26100.61,18298.22,5192.93,2609.46,161.51,0.00,0.00
+1055,150,1344.29,26908.72,18839.01,5381.14,2688.57,137.35,0.00,0.00
+1056,150,1279.99,25384.76,17721.83,5102.95,2559.98,158.63,0.00,0.00
+1057,150,962.87,19502.30,13686.11,3890.46,1925.73,227.40,0.00,0.00
+1058,150,1191.79,23793.73,16650.01,4760.15,2383.57,161.51,0.00,0.00
+1059,150,1164.61,23188.16,16174.48,4684.46,2329.22,176.73,0.00,0.00
+1060,150,1222.23,24272.61,16986.23,4841.93,2444.45,176.73,0.00,0.00
+1061,150,1264.55,25721.14,18102.84,5089.20,2529.10,144.97,0.00,0.00
+1062,150,1210.99,24130.77,16834.84,4873.95,2421.98,173.58,0.00,0.00
+1063,150,1246.84,24559.90,17155.83,4910.38,2493.68,167.44,0.00,0.00
+1064,150,1271.16,25896.33,18170.33,5183.67,2542.33,142.39,0.00,0.00
+1065,150,1243.75,24864.04,17421.53,4955.01,2487.50,164.45,0.00,0.00
+1066,150,1273.29,25248.73,17659.01,5043.14,2546.58,164.45,0.00,0.00
+1067,150,1230.50,24607.93,17206.96,4939.98,2460.99,189.93,0.00,0.00
+1068,150,1287.69,25871.77,18122.63,5173.75,2575.38,167.44,0.00,0.00
+1069,150,1318.83,26090.44,18259.50,5193.27,2637.66,153.02,0.00,0.00
+1070,150,1270.01,25572.27,17905.19,5127.05,2540.03,161.51,0.00,0.00
+1071,150,1340.78,26842.64,18814.94,5346.13,2681.56,142.39,0.00,0.00
+1072,150,1223.19,24527.73,17143.60,4937.75,2446.37,215.44,0.00,0.00
+1073,150,1274.01,25485.17,17869.12,5068.03,2548.02,147.61,0.00,0.00
+1074,150,1303.53,26165.51,18266.38,5292.08,2607.05,150.29,0.00,0.00
+1075,150,1260.43,25140.56,17632.00,4987.70,2520.86,164.45,0.00,0.00
+1076,150,1248.64,24713.93,17258.06,4958.58,2497.29,170.48,0.00,0.00
+1077,150,1289.62,25889.47,18152.75,5157.48,2579.24,142.39,0.00,0.00
+1078,150,1217.77,24550.39,17166.78,4948.07,2435.54,167.44,0.00,0.00
+1079,150,1201.81,23957.27,16838.38,4715.27,2403.63,176.73,0.00,0.00
+1080,150,1313.37,26479.49,18498.23,5354.51,2626.74,142.39,0.00,0.00
+1081,150,1158.61,22961.31,16059.62,4584.46,2317.22,179.94,0.00,0.00
+1082,150,1235.24,24728.84,17301.39,4956.97,2470.48,164.45,0.00,0.00
+1083,150,1161.02,23038.45,16117.32,4599.09,2322.05,207.82,0.00,0.00
+1084,150,1364.02,27217.38,19062.26,5428.08,2727.04,150.29,0.00,0.00
+1085,150,1373.74,27650.69,19346.29,5555.93,2748.47,147.61,0.00,0.00
+1086,150,1250.23,25253.68,17753.29,4999.93,2500.46,153.02,0.00,0.00
+1087,150,1207.81,23836.27,16610.40,4810.25,2415.62,173.58,0.00,0.00
+1088,150,1189.22,23890.51,16749.16,4762.90,2378.45,161.51,0.00,0.00
+1089,150,1228.84,24526.72,17168.71,4900.35,2457.67,153.02,0.00,0.00
+1090,150,1241.15,24974.98,17516.09,4976.59,2482.30,167.44,0.00,0.00
+1091,150,1002.86,19972.24,13957.07,4009.45,2005.72,215.44,0.00,0.00
+1092,150,892.11,17915.22,12534.55,3596.45,1784.22,211.60,0.00,0.00
+1093,150,950.10,18770.02,13110.41,3759.41,1900.20,204.11,0.00,0.00
+1094,150,1069.87,21364.44,14967.21,4257.49,2139.74,207.82,0.00,0.00
+1095,150,1238.90,25096.89,17597.52,5021.58,2477.79,142.39,0.00,0.00
+1096,150,1294.14,25568.79,17863.95,5119.56,2585.28,167.44,0.00,0.00
+1097,150,1241.89,25076.75,17560.43,5029.55,2486.78,158.63,0.00,0.00
+1098,150,1234.12,24726.40,17315.68,4942.48,2468.24,161.51,0.00,0.00
+1099,150,1324.85,26275.11,18383.98,5241.42,2649.71,142.39,0.00,0.00
+1100,150,1218.58,24472.58,17171.09,4864.33,2437.16,164.45,0.00,0.00
+1101,150,1214.61,24288.26,16982.60,4876.43,2429.23,167.44,0.00,0.00
+1102,150,1282.49,25722.90,17976.92,5180.99,2564.99,150.29,0.00,0.00
+1103,150,1163.17,23324.45,16350.44,4647.67,2326.34,176.73,0.00,0.00
+1104,150,1229.28,24543.50,17203.86,4881.09,2458.55,173.58,0.00,0.00
+1105,150,1283.78,25721.62,17978.94,5175.12,2567.56,144.97,0.00,0.00
+1106,150,1252.18,25034.59,17522.51,5007.72,2504.36,167.44,0.00,0.00
+1107,150,1280.82,25571.48,17914.54,5095.30,2561.65,167.44,0.00,0.00
+1108,150,1337.20,26722.06,18702.84,5344.81,2674.41,139.85,0.00,0.00
+1109,150,1235.81,24504.17,17106.32,4926.23,2471.61,167.44,0.00,0.00
+1110,150,1244.18,25046.57,17555.50,5002.71,2488.35,167.44,0.00,0.00
+1111,150,1305.33,26368.58,18484.61,5273.32,2610.65,139.85,0.00,0.00
+1112,150,1281.44,25236.91,17594.27,5079.77,2562.87,155.80,0.00,0.00
+1113,150,1198.23,24192.65,16991.27,4804.92,2396.46,211.60,0.00,0.00
+1114,150,1186.38,23286.47,16243.21,4670.50,2372.76,196.89,0.00,0.00
+1115,150,1207.61,24374.04,17123.40,4835.42,2415.21,244.38,0.00,0.00
+1116,150,1285.81,25739.26,17977.39,5190.25,2571.63,158.63,0.00,0.00
+1117,150,1297.92,26034.42,18252.89,5185.68,2595.84,137.35,0.00,0.00
+1118,150,1324.30,26383.92,18460.14,5275.18,2648.59,158.63,0.00,0.00
+1119,150,1244.44,25026.75,17565.10,4972.76,2488.88,158.63,0.00,0.00
+1120,150,1274.52,25597.44,17922.31,5126.09,2549.04,155.80,0.00,0.00
+1121,150,1354.06,26927.18,18804.82,5414.24,2708.12,142.39,0.00,0.00
+1122,150,1225.80,24369.01,17013.21,4904.20,2451.60,170.48,0.00,0.00
+1123,150,1219.18,24478.58,17184.51,4855.71,2438.36,164.45,0.00,0.00
+1124,150,1293.80,25894.92,18152.14,5155.19,2587.59,147.61,0.00,0.00
+1125,150,1274.00,25377.90,17743.93,5085.98,2547.99,164.45,0.00,0.00
+1126,150,1188.04,24143.74,16915.52,4852.15,2376.07,173.58,0.00,0.00
+1127,150,1337.56,26430.40,18439.00,5316.27,2675.13,142.39,0.00,0.00
+1128,150,1250.62,25096.39,17619.70,4975.46,2501.23,164.45,0.00,0.00
+1129,150,1232.97,24919.33,17445.53,5007.87,2465.93,164.45,0.00,0.00
+1130,150,1321.89,26110.88,18260.52,5206.58,2643.79,142.39,0.00,0.00
+1131,150,1266.93,25459.56,17841.99,5083.71,2533.86,158.63,0.00,0.00
+1132,150,1134.14,22543.87,15741.01,4534.58,2268.29,227.40,0.00,0.00
+1133,150,1326.84,26509.71,18602.69,5253.35,2653.67,139.85,0.00,0.00
+1134,150,1202.94,24128.70,16895.09,4827.74,2405.87,170.48,0.00,0.00
+1135,150,1215.22,24547.40,17180.08,4936.88,2430.44,173.58,0.00,0.00
+1136,150,1324.02,26277.39,18379.28,5250.08,2648.04,144.97,0.00,0.00
+1137,150,1210.90,24266.03,17007.62,4836.61,2421.80,183.21,0.00,0.00
+1138,150,1260.10,25200.97,17601.38,5079.40,2520.20,155.80,0.00,0.00
+1139,150,1337.77,26720.33,18742.73,5302.07,2675.53,142.39,0.00,0.00
+1140,150,1266.00,25262.08,17656.06,5074.02,2532.01,161.51,0.00,0.00
+1141,150,1226.20,24823.07,17368.85,5001.82,2452.40,164.45,0.00,0.00
+1142,150,1223.99,24048.71,16821.80,4778.94,2447.97,167.44,0.00,0.00
+1143,150,988.00,20217.03,14161.02,4080.01,1976.00,196.89,0.00,0.00
+1144,150,1177.84,23223.77,16235.74,4632.36,2355.67,176.73,0.00,0.00
+1145,150,1028.20,20465.89,14357.73,4051.77,2056.39,227.40,0.00,0.00
+1146,150,1178.78,23627.55,16562.88,4707.11,2357.56,282.25,0.00,0.00
+1147,150,1194.20,24117.96,16881.77,4847.80,2388.39,173.58,0.00,0.00
+1148,150,1251.25,24856.07,17391.55,4962.02,2502.50,147.61,0.00,0.00
+1149,150,1241.73,24789.66,17323.25,4982.95,2483.47,179.94,0.00,0.00
+1150,150,1253.59,25066.81,17561.26,4998.37,2507.18,158.63,0.00,0.00
+1151,150,1247.43,25118.66,17616.07,5007.73,2494.86,142.39,0.00,0.00
+1152,150,1319.97,26313.40,18394.58,5278.88,2639.94,167.44,0.00,0.00
+1153,150,1156.79,23018.89,16097.12,4608.18,2313.59,176.73,0.00,0.00
+1154,150,1264.26,25293.20,17689.64,5075.04,2528.52,142.39,0.00,0.00
+1155,150,1289.68,25912.53,18146.47,5186.71,2579.36,161.51,0.00,0.00
+1156,150,1265.22,25359.36,17807.06,5021.86,2530.43,155.80,0.00,0.00
+1157,150,1280.88,25487.59,17798.32,5127.52,2561.76,153.02,0.00,0.00
+1158,150,1298.20,26202.01,18403.82,5201.80,2596.40,144.97,0.00,0.00
+1159,150,1259.72,25123.48,17555.14,5048.89,2519.45,161.51,0.00,0.00
+1160,150,1254.28,24914.60,17406.91,4999.12,2508.56,167.44,0.00,0.00
+1161,150,1302.00,26198.01,18373.01,5221.00,2604.00,142.39,0.00,0.00
+1162,150,1256.81,25191.17,17648.32,5029.23,2513.62,161.51,0.00,0.00
+1163,150,1233.15,24694.97,17254.07,4974.60,2466.30,161.51,0.00,0.00
+1164,150,1322.02,26386.44,18510.31,5232.09,2644.04,139.85,0.00,0.00
+1165,150,1258.83,25335.50,17696.55,5121.29,2517.65,161.51,0.00,0.00
+1166,150,1274.59,25408.81,17768.27,5091.36,2549.18,155.80,0.00,0.00
+1167,150,1273.60,25200.89,17617.31,5036.38,2547.20,144.97,0.00,0.00
+1168,150,1305.00,26547.97,18611.98,5325.99,2610.00,153.02,0.00,0.00
+1169,150,1239.74,24528.83,17192.37,4856.98,2479.48,161.51,0.00,0.00
+1170,150,1231.25,24468.95,17085.46,4921.00,2462.50,158.63,0.00,0.00
+1171,150,1302.80,26334.96,18444.17,5285.19,2605.60,158.63,0.00,0.00
+1172,150,1241.19,24682.79,17300.66,4899.75,2482.38,158.63,0.00,0.00
+1173,150,1206.80,24178.93,16937.15,4828.19,2413.59,167.44,0.00,0.00
+1174,150,1329.20,26402.06,18458.84,5284.81,2658.41,144.97,0.00,0.00
+1175,150,1217.02,24257.45,16949.32,4874.09,2434.05,170.48,0.00,0.00
+1176,150,1037.85,20649.01,14446.91,4126.40,2075.70,240.02,0.00,0.00
+1177,150,1397.18,28436.59,19944.52,5697.72,2794.35,186.54,0.00,0.00
+1178,150,1302.77,25731.49,17990.85,5135.10,2605.54,158.63,0.00,0.00
+1179,150,1184.22,23699.40,16598.08,4732.88,2368.44,170.48,0.00,0.00
+1180,150,1263.98,25467.70,17848.79,5090.94,2527.97,150.29,0.00,0.00
+1181,150,1192.79,23716.81,16598.07,4733.16,2385.58,173.58,0.00,0.00
+1182,150,1184.22,23707.31,16582.01,4756.86,2368.43,176.73,0.00,0.00
+1183,150,1264.82,25272.44,17720.50,5022.29,2529.64,144.97,0.00,0.00
+1184,150,1252.19,25154.88,17583.71,5066.78,2504.39,158.63,0.00,0.00
+1185,150,1208.83,24322.64,17025.65,4879.33,2417.67,167.44,0.00,0.00
+1186,150,1253.22,24952.38,17463.06,4982.87,2506.44,153.02,0.00,0.00
+1187,150,1240.77,24679.35,17266.75,4931.07,2481.53,167.44,0.00,0.00
+1188,150,1193.15,24056.97,16856.08,4814.59,2386.29,170.48,0.00,0.00
+1189,150,1291.77,25642.37,17940.76,5118.08,2583.53,144.97,0.00,0.00
+1190,150,1228.23,24573.58,17205.20,4911.91,2456.46,170.48,0.00,0.00
+1191,150,1228.03,24550.53,17182.37,4912.11,2456.05,167.44,0.00,0.00
+1192,150,1340.75,26750.95,18690.47,5378.98,2681.49,137.35,0.00,0.00
+1193,150,1230.23,24598.68,17226.28,4911.93,2460.47,179.94,0.00,0.00
+1194,150,1251.81,25089.13,17624.28,4961.24,2503.61,158.63,0.00,0.00
+1195,150,1292.05,25702.01,17931.71,5186.20,2584.10,142.39,0.00,0.00
+1196,150,1281.15,25611.09,17929.16,5119.62,2562.31,158.63,0.00,0.00
+1197,150,1233.78,24965.63,17528.93,4969.13,2467.57,167.44,0.00,0.00
+1198,150,1257.90,25341.95,17739.57,5086.59,2515.80,150.29,0.00,0.00
+1199,150,1318.33,26213.56,18379.60,5197.30,2636.66,150.29,0.00,0.00
+1200,150,1234.50,24438.12,17046.11,4923.01,2469.00,167.44,0.00,0.00
+1201,150,1265.51,25312.17,17730.13,5051.03,2531.02,158.63,0.00,0.00
+1202,150,1296.51,26076.07,18227.06,5256.00,2593.01,144.97,0.00,0.00
+1203,150,1250.47,24863.28,17411.50,4950.85,2500.93,161.51,0.00,0.00
+1204,150,1256.81,25211.19,17650.33,5047.24,2513.62,155.80,0.00,0.00
+1205,150,1278.21,25770.29,18059.01,5154.86,2556.43,142.39,0.00,0.00
+1206,150,1265.95,24973.07,17451.35,4989.81,2531.91,167.44,0.00,0.00
+1207,150,1044.93,21317.65,14979.05,4248.73,2089.87,240.02,0.00,0.00
+1208,150,1307.89,25941.91,18139.54,5186.58,2615.79,200.47,0.00,0.00
+1209,150,1287.22,25612.39,17887.07,5150.88,2574.44,158.63,0.00,0.00
+1210,150,1269.78,25470.66,17830.96,5100.13,2539.57,161.51,0.00,0.00
+1211,150,1312.21,26463.29,18584.01,5254.85,2624.43,139.85,0.00,0.00
+1212,150,1281.66,25417.18,17760.23,5093.63,2563.31,155.80,0.00,0.00
+1213,150,1270.34,25290.72,17682.70,5067.35,2540.68,161.51,0.00,0.00
+1214,150,1308.41,26352.20,18443.74,5291.63,2616.83,139.85,0.00,0.00
+1215,150,1235.51,24785.13,17415.12,4899.00,2471.01,170.48,0.00,0.00
+1216,150,1298.05,25885.93,18098.65,5191.19,2596.09,153.02,0.00,0.00
+1217,150,1277.25,25706.94,17966.45,5186.00,2554.49,142.39,0.00,0.00
+1218,150,1314.74,25782.95,17999.47,5153.99,2629.48,155.80,0.00,0.00
+1219,150,1227.58,24826.46,17411.01,4960.29,2455.16,167.44,0.00,0.00
+1220,150,1249.44,25138.75,17630.14,5009.74,2498.87,150.29,0.00,0.00
+1221,150,1302.46,25953.24,18146.48,5201.84,2604.92,147.61,0.00,0.00
+1222,150,1233.50,24555.86,17178.90,4909.97,2466.99,161.51,0.00,0.00
+1223,150,1286.98,25742.55,18037.69,5130.91,2573.96,158.63,0.00,0.00
+1224,150,1262.87,25456.41,17845.19,5085.48,2525.74,144.97,0.00,0.00
+1225,150,1253.17,25054.35,17546.35,5001.67,2506.34,164.45,0.00,0.00
+1226,150,1266.02,25222.37,17677.26,5013.07,2532.04,158.63,0.00,0.00
+1227,150,1192.84,23931.85,16758.80,4787.37,2385.69,164.45,0.00,0.00
+1228,150,999.13,19865.55,13851.78,4015.52,1998.26,215.44,0.00,0.00
+1229,150,1112.79,22280.85,15607.09,4448.17,2225.59,170.48,0.00,0.00
+1230,150,1210.32,24103.36,16871.45,4811.27,2420.64,155.80,0.00,0.00
+1231,150,1134.91,22920.13,16059.69,4590.63,2269.81,176.73,0.00,0.00
+1232,150,1210.73,24043.58,16761.22,4860.90,2421.45,173.58,0.00,0.00
+1233,150,1289.10,25910.08,18166.46,5165.41,2578.21,144.97,0.00,0.00
+1234,150,1238.73,24634.72,17254.30,4902.95,2477.47,161.51,0.00,0.00
+1235,150,1269.31,25357.24,17727.37,5091.25,2538.63,158.63,0.00,0.00
+1236,150,1295.03,26004.59,18262.42,5152.12,2590.06,142.39,0.00,0.00
+1237,150,1235.41,24618.14,17178.73,4968.61,2470.81,158.63,0.00,0.00
+1238,150,1016.47,20586.61,14454.75,4098.91,2032.95,331.91,0.00,0.00
+1239,150,1332.11,26435.12,18445.48,5325.43,2664.21,142.39,0.00,0.00
+1240,150,1275.99,25318.80,17735.86,5030.96,2551.98,155.80,0.00,0.00
+1241,150,1219.43,24519.57,17158.00,4922.70,2438.86,164.45,0.00,0.00
+1242,150,1276.58,25666.75,17981.23,5132.35,2553.17,147.61,0.00,0.00
+1243,150,1228.98,24681.67,17284.77,4938.93,2457.97,167.44,0.00,0.00
+1244,150,1263.84,25097.82,17566.78,5003.37,2527.68,155.80,0.00,0.00
+1245,150,1248.01,24799.10,17320.07,4983.02,2496.01,144.97,0.00,0.00
+1246,150,1246.99,25290.87,17786.91,5009.97,2493.99,167.44,0.00,0.00
+1247,150,1261.20,25051.06,17457.83,5070.82,2522.41,158.63,0.00,0.00
+1248,150,1278.70,25509.99,17880.79,5071.81,2557.40,153.02,0.00,0.00
+1249,150,1305.37,26178.48,18365.24,5202.49,2610.75,144.97,0.00,0.00
+1250,150,1233.62,24667.47,17234.74,4965.48,2467.25,164.45,0.00,0.00
+1251,150,1212.29,24507.84,17206.10,4877.16,2424.58,161.51,0.00,0.00
+1252,150,1302.72,25789.39,17978.09,5205.87,2605.43,144.97,0.00,0.00
+1253,150,1234.29,24857.85,17461.11,4928.16,2468.58,164.45,0.00,0.00
+1254,150,1257.79,25103.83,17557.08,5031.16,2515.58,164.45,0.00,0.00
+1255,150,1305.93,26042.51,18223.95,5206.70,2611.85,142.39,0.00,0.00
+1256,150,1255.27,25062.36,17547.75,5004.07,2510.54,158.63,0.00,0.00
+1257,150,1244.00,24952.07,17455.05,5009.01,2488.01,167.44,0.00,0.00
+1258,150,1324.77,26301.39,18371.78,5280.08,2649.54,142.39,0.00,0.00
+1259,150,1238.20,24958.11,17521.89,4959.82,2476.41,158.63,0.00,0.00
+1260,150,1205.81,24191.11,16963.27,4816.23,2411.61,170.48,0.00,0.00
+1261,150,1315.02,26245.41,18350.28,5265.08,2630.04,142.39,0.00,0.00
+1262,150,1225.19,24456.80,17108.66,4897.76,2450.38,173.58,0.00,0.00
+1263,150,1203.81,23972.28,16761.40,4803.25,2407.63,179.94,0.00,0.00
+1264,150,1294.20,25995.96,18197.77,5209.79,2588.39,144.97,0.00,0.00
+1265,150,1230.78,24821.52,17393.86,4966.10,2461.56,167.44,0.00,0.00
+1266,150,1257.37,25047.37,17483.14,5049.49,2514.74,173.58,0.00,0.00
+1267,150,1286.83,25427.73,17805.71,5048.35,2573.67,147.61,0.00,0.00
+1268,150,1200.70,24225.87,17020.69,4803.78,2401.39,158.63,0.00,0.00
+1269,150,1026.28,20499.57,14292.88,4154.13,2052.56,282.25,0.00,0.00
+1270,150,1218.54,24432.80,17119.55,4876.16,2437.08,164.45,0.00,0.00
+1271,150,1159.29,23210.76,16282.04,4610.14,2318.58,170.48,0.00,0.00
+1272,150,1280.85,25662.93,17975.85,5125.39,2561.69,158.63,0.00,0.00
+1273,150,1362.33,27018.52,18880.56,5413.31,2724.66,134.90,0.00,0.00
+1274,150,1292.00,26137.04,18327.03,5226.01,2584.00,153.02,0.00,0.00
+1275,150,1330.79,26618.89,18606.12,5351.17,2661.59,147.61,0.00,0.00
+1276,150,1198.31,23540.01,16431.20,4712.20,2396.61,155.80,0.00,0.00
+1277,150,1217.88,24617.65,17283.35,4898.53,2435.77,170.48,0.00,0.00
+1278,150,1138.96,22883.13,16001.39,4603.82,2277.91,170.48,0.00,0.00
+1279,150,1180.01,23399.18,16382.12,4657.03,2360.02,173.58,0.00,0.00
+1280,150,1173.86,23532.16,16522.01,4662.44,2347.72,161.51,0.00,0.00
+1281,150,1190.17,23916.34,16703.34,4832.68,2380.33,167.44,0.00,0.00
+1282,150,1181.80,23629.96,16550.17,4716.19,2363.60,161.51,0.00,0.00
+1283,150,1239.22,24738.33,17315.03,4944.86,2478.43,150.29,0.00,0.00
+1284,150,1184.79,23581.77,16491.04,4721.15,2369.57,170.48,0.00,0.00
+1285,150,1231.56,24795.20,17376.83,4955.24,2463.13,161.51,0.00,0.00
+1286,150,1281.69,25640.71,17957.60,5119.74,2563.37,144.97,0.00,0.00
+1287,150,1177.01,23338.12,16288.09,4696.02,2354.01,167.44,0.00,0.00
+1288,150,1207.82,24176.42,16936.49,4824.29,2415.64,164.45,0.00,0.00
+1289,150,1282.32,25802.36,18072.46,5165.27,2564.63,144.97,0.00,0.00
+1290,150,1233.64,24348.90,16988.04,4893.57,2467.28,161.51,0.00,0.00
+1291,150,1187.34,24210.90,17022.85,4813.37,2374.68,173.58,0.00,0.00
+1292,150,1316.69,26035.93,18232.75,5169.80,2633.39,144.97,0.00,0.00
+1293,150,1217.96,24493.10,17140.37,4916.82,2435.91,164.45,0.00,0.00
+1294,150,1222.22,24157.33,16877.02,4835.87,2444.44,161.51,0.00,0.00
+1295,150,1255.60,25294.87,17710.31,5073.37,2511.19,150.29,0.00,0.00
+1296,150,1191.38,23941.57,16761.30,4798.52,2381.75,164.45,0.00,0.00
+1297,150,1178.08,23836.69,16686.18,4793.34,2357.17,173.58,0.00,0.00
+1298,150,1253.92,24462.42,17071.90,4882.69,2507.84,150.29,0.00,0.00
+1299,150,1265.01,25398.10,17775.07,5093.02,2530.01,153.02,0.00,0.00
+1300,150,911.18,18477.75,12992.64,3662.74,1822.37,257.95,0.00,0.00
+1301,150,1214.75,24085.06,16836.55,4819.01,2429.50,196.89,0.00,0.00
+1302,150,1270.81,25480.13,17868.29,5070.23,2541.61,161.51,0.00,0.00
+1303,150,1235.24,24825.91,17387.44,4967.98,2470.49,167.44,0.00,0.00
+1304,150,1229.75,24464.02,17094.52,4910.00,2459.50,164.45,0.00,0.00
+1305,150,1245.14,24954.87,17461.01,5003.58,2490.29,150.29,0.00,0.00
+1306,150,1228.80,24726.96,17354.17,4915.20,2457.60,164.45,0.00,0.00
+1307,150,1247.25,24742.98,17251.47,4997.01,2494.50,164.45,0.00,0.00
+1308,150,1282.77,25764.31,18094.71,5104.07,2565.53,142.39,0.00,0.00
+1309,150,1213.20,24459.11,17156.88,4875.82,2426.41,173.58,0.00,0.00
+1310,150,1237.91,24403.28,17006.80,4920.65,2475.83,176.73,0.00,0.00
+1311,150,1259.05,25123.94,17567.66,5038.19,2518.09,147.61,0.00,0.00
+1312,150,1191.73,24252.50,17023.14,4845.90,2383.46,161.51,0.00,0.00
+1313,150,1211.33,24060.62,16816.63,4821.33,2422.67,161.51,0.00,0.00
+1314,150,1049.03,20770.61,14556.43,4116.12,2098.06,183.21,0.00,0.00
+1315,150,1054.81,21330.08,14939.26,4281.21,2109.61,207.82,0.00,0.00
+1316,150,726.25,14429.04,10110.53,2866.00,1452.51,376.49,0.00,0.00
+1317,150,318.94,6326.80,4447.16,1241.77,637.88,694.45,0.00,0.00
+1318,150,369.96,7266.20,5038.45,1487.84,739.92,484.44,0.00,0.00
+1319,150,357.04,6988.76,4854.53,1420.16,714.08,549.52,0.00,0.00
+1320,150,402.76,8404.93,5943.42,1656.00,805.51,493.24,0.00,0.00
+1321,150,427.35,8555.10,5986.97,1713.42,854.71,419.45,0.00,0.00
+1322,150,404.01,7923.22,5546.16,1569.04,808.02,601.29,0.00,0.00
+1323,150,609.84,12339.83,8636.78,2483.36,1219.69,369.77,0.00,0.00
+1324,150,917.97,18228.48,12766.63,3625.90,1835.95,227.40,0.00,0.00
+1325,150,844.87,16947.31,11844.12,3413.46,1689.73,231.53,0.00,0.00
+1326,150,865.37,17408.47,12205.24,3472.49,1730.74,219.36,0.00,0.00
+1327,150,865.72,17332.33,12140.03,3460.87,1731.43,207.82,0.00,0.00
+1328,150,870.05,17315.05,12081.74,3493.21,1740.11,227.40,0.00,0.00
+1329,150,760.00,15134.95,10606.97,3007.99,1519.99,337.94,0.00,0.00
+1330,150,863.02,17355.45,12155.31,3474.09,1726.04,215.44,0.00,0.00
+1331,150,881.00,17638.04,12371.03,3505.01,1762.00,231.53,0.00,0.00
+1332,150,937.82,19140.26,13391.38,3873.24,1875.63,204.11,0.00,0.00
+1333,150,911.15,17749.84,12414.99,3512.56,1822.29,231.53,0.00,0.00
+1334,150,844.03,16862.61,11793.43,3381.12,1688.06,231.53,0.00,0.00
+1335,150,901.84,18041.72,12627.70,3610.34,1803.67,215.44,0.00,0.00
+1336,150,882.15,17902.05,12560.14,3577.61,1764.30,211.60,0.00,0.00
+1337,150,895.00,17856.99,12493.99,3573.00,1790.00,219.36,0.00,0.00
+1338,150,959.85,19186.93,13446.85,3820.39,1919.69,204.11,0.00,0.00
+1339,150,936.17,18565.32,12956.32,3736.67,1872.33,207.82,0.00,0.00
+1340,150,892.85,18007.02,12625.91,3595.41,1785.70,227.40,0.00,0.00
+1341,150,949.22,18833.29,13197.00,3737.85,1898.43,200.47,0.00,0.00
+1342,150,928.92,18568.38,12958.87,3751.67,1857.84,207.82,0.00,0.00
+1343,150,889.84,17972.72,12629.69,3563.35,1779.67,223.34,0.00,0.00
+1344,150,930.18,18326.62,12794.52,3671.72,1860.37,211.60,0.00,0.00
+1345,150,899.87,18163.36,12706.15,3657.47,1799.74,223.34,0.00,0.00
+1346,150,895.12,17919.46,12526.72,3602.50,1790.25,207.82,0.00,0.00
+1347,150,916.88,18254.59,12780.31,3640.52,1833.76,200.47,0.00,0.00
+1348,150,889.22,17845.39,12500.07,3566.88,1778.44,231.53,0.00,0.00
+1349,150,889.73,17772.65,12446.25,3546.93,1779.46,211.60,0.00,0.00
+1350,150,863.18,17270.53,12100.47,3443.70,1726.35,215.44,0.00,0.00
+1351,150,889.24,17595.66,12267.25,3549.94,1778.47,219.36,0.00,0.00
+1352,150,881.62,17634.33,12356.62,3514.47,1763.23,227.40,0.00,0.00
+1353,150,847.14,17099.84,11980.99,3424.57,1694.28,231.53,0.00,0.00
+1354,150,858.89,17403.85,12142.50,3543.56,1717.79,215.44,0.00,0.00
+1355,150,908.97,17854.32,12545.52,3490.87,1817.93,227.40,0.00,0.00
+1356,150,894.00,17989.98,12594.99,3607.00,1788.00,215.44,0.00,0.00
+1357,150,952.98,18986.54,13292.68,3787.91,1905.95,204.11,0.00,0.00
+1358,150,860.14,17343.91,12172.05,3451.58,1720.29,215.44,0.00,0.00
+1359,150,892.19,18013.87,12603.71,3625.78,1784.38,215.44,0.00,0.00
+1360,150,936.85,18249.15,12706.02,3678.43,1864.71,211.60,0.00,0.00
+1361,150,887.80,17949.06,12590.23,3574.21,1784.61,215.44,0.00,0.00
+1362,150,853.04,16995.85,11902.59,3387.17,1706.08,215.44,0.00,0.00
+1363,150,916.99,18443.74,12939.82,3669.95,1833.97,262.64,0.00,0.00
+1364,150,922.11,18448.27,12911.59,3692.46,1844.23,219.36,0.00,0.00
+1365,150,983.10,19756.97,13797.38,3993.40,1966.20,189.93,0.00,0.00
+1366,150,960.93,19292.56,13540.99,3829.72,1921.86,204.11,0.00,0.00
+1367,150,920.58,18276.60,12797.12,3638.33,1841.15,219.36,0.00,0.00
+1368,150,887.48,17702.63,12380.74,3546.93,1774.97,219.36,0.00,0.00
+1369,150,960.68,19167.59,13410.52,3835.72,1921.36,207.82,0.00,0.00
+1370,150,909.16,18277.24,12803.27,3655.65,1818.32,207.82,0.00,0.00
+1371,150,863.06,17258.17,12084.82,3447.23,1726.12,223.34,0.00,0.00
+1372,150,900.86,18020.16,12606.02,3612.43,1801.72,223.34,0.00,0.00
+1373,150,856.29,16937.80,11848.06,3377.16,1712.59,227.40,0.00,0.00
+1374,150,1156.57,23105.47,16161.03,4640.29,2304.15,204.11,0.00,0.00
+1375,150,1156.05,23315.94,16288.66,4706.19,2321.09,183.21,0.00,0.00
+1376,150,1278.25,25478.03,17895.53,5025.99,2556.50,147.61,0.00,0.00
+1377,150,1181.73,23812.63,16685.24,4763.93,2363.47,167.44,0.00,0.00
+1378,150,1233.15,24539.04,17151.13,4921.61,2466.31,170.48,0.00,0.00
+1379,150,1276.05,25290.07,17646.75,5091.22,2552.11,147.61,0.00,0.00
+1380,150,1268.78,25684.45,18019.81,5127.09,2537.55,155.80,0.00,0.00
+1381,150,1233.18,24758.69,17344.58,4947.74,2466.37,155.80,0.00,0.00
+1382,150,1261.05,25260.94,17685.66,5053.19,2522.09,158.63,0.00,0.00
+1383,150,1194.82,23724.46,16610.52,4724.30,2389.64,173.58,0.00,0.00
+1384,150,1328.17,26555.46,18568.42,5330.69,2656.35,139.85,0.00,0.00
+1385,150,1273.73,25594.64,17972.24,5074.94,2547.47,155.80,0.00,0.00
+1386,150,1301.50,26003.02,18149.99,5250.02,2603.00,164.45,0.00,0.00
+1387,150,1359.22,27244.50,19112.16,5413.89,2718.45,134.90,0.00,0.00
+1388,150,1287.35,25456.10,17785.99,5095.42,2574.70,158.63,0.00,0.00
+1389,150,1286.22,25730.39,17964.06,5193.89,2572.44,158.63,0.00,0.00
+1390,150,1291.80,25783.02,18055.21,5144.21,2583.60,144.97,0.00,0.00
+1391,150,1354.18,27588.70,19386.60,5493.74,2708.36,147.61,0.00,0.00
+1392,150,1282.78,25150.73,17549.02,5036.14,2565.56,189.93,0.00,0.00
+1393,150,1291.25,25838.93,18088.45,5167.99,2582.49,144.97,0.00,0.00
+1394,150,1156.98,23267.62,16326.73,4626.92,2313.96,223.34,0.00,0.00
+1395,150,1308.09,26185.81,18312.28,5257.35,2616.18,158.63,0.00,0.00
+1396,150,1321.63,26345.46,18439.72,5262.49,2643.25,153.02,0.00,0.00
+1397,150,1376.12,27483.42,19231.70,5499.49,2752.24,137.35,0.00,0.00
+1398,150,1331.21,26941.30,18872.01,5406.86,2662.42,147.61,0.00,0.00
+1399,150,1316.03,26434.61,18528.43,5274.12,2632.06,153.02,0.00,0.00
+1400,150,1379.98,27277.88,19055.95,5461.97,2759.96,134.90,0.00,0.00
+1401,150,1249.67,25029.49,17572.47,4957.67,2499.35,167.44,0.00,0.00
+1402,150,1301.27,26146.36,18306.75,5237.07,2602.53,155.80,0.00,0.00
+1403,150,1391.77,27689.33,19326.74,5579.06,2783.53,134.90,0.00,0.00
+1404,150,1329.20,26534.05,18612.84,5262.80,2658.41,144.97,0.00,0.00
+1405,150,1305.00,26207.94,18319.96,5277.99,2609.99,164.45,0.00,0.00
+1406,150,1376.01,27579.30,19339.21,5488.06,2752.03,132.49,0.00,0.00
+1407,150,1344.82,26812.42,18737.50,5385.28,2689.64,153.02,0.00,0.00
+1408,150,1318.18,26352.63,18407.54,5308.73,2636.36,161.51,0.00,0.00
+1409,150,1380.78,27634.50,19353.85,5519.10,2761.55,137.35,0.00,0.00
+1410,150,1304.15,25913.06,18137.14,5167.61,2608.31,164.45,0.00,0.00
+1411,150,1256.86,24923.29,17412.10,4997.46,2513.73,186.54,0.00,0.00
+1412,150,1354.56,27396.20,19219.82,5467.24,2709.13,137.35,0.00,0.00
+1413,150,1307.63,26424.65,18563.89,5245.51,2615.25,158.63,0.00,0.00
+1414,150,1284.92,25739.46,17970.93,5198.69,2569.85,155.80,0.00,0.00
+1415,150,1367.89,27042.78,18938.44,5368.56,2735.77,137.35,0.00,0.00
+1416,150,1347.95,27002.03,18881.32,5424.81,2695.90,147.61,0.00,0.00
+1417,150,1066.03,21526.59,15093.41,4301.12,2132.06,193.38,0.00,0.00
+1418,150,1201.14,23701.82,16578.97,4720.56,2402.29,158.63,0.00,0.00
+1419,150,1194.84,24001.88,16786.82,4825.37,2389.69,170.48,0.00,0.00
+1420,150,1163.20,23318.95,16335.77,4656.79,2326.39,173.58,0.00,0.00
+1421,150,1315.50,26192.12,18297.10,5264.01,2631.01,144.97,0.00,0.00
+1422,150,1063.36,21501.29,15039.10,4335.47,2126.72,267.41,0.00,0.00
+1423,150,1305.04,26199.78,18392.54,5197.15,2610.08,150.29,0.00,0.00
+1424,150,1336.78,26853.49,18785.85,5394.09,2673.55,139.85,0.00,0.00
+1425,150,1311.23,25875.49,18125.14,5127.89,2622.45,167.44,0.00,0.00
+1426,150,1326.75,26626.08,18650.56,5322.02,2653.51,153.02,0.00,0.00
+1427,150,1362.21,27135.08,18963.85,5446.82,2724.41,134.90,0.00,0.00
+1428,150,1338.03,26898.52,18861.36,5361.10,2676.05,153.02,0.00,0.00
+1429,150,1341.84,26516.75,18516.73,5316.35,2683.67,155.80,0.00,0.00
+1430,150,1262.61,25304.22,17696.55,5082.45,2525.22,139.85,0.00,0.00
+1431,150,1331.31,26989.96,18978.13,5349.22,2662.61,186.54,0.00,0.00
+1432,150,1342.10,26451.91,18441.33,5326.38,2684.19,153.02,0.00,0.00
+1433,150,1301.13,26263.65,18437.86,5223.53,2602.26,139.85,0.00,0.00
+1434,150,1382.78,27622.53,19340.87,5516.11,2765.55,150.29,0.00,0.00
+1435,150,1307.19,26391.81,18459.67,5317.77,2614.38,153.02,0.00,0.00
+1436,150,1339.83,26484.65,18553.66,5251.34,2679.66,142.39,0.00,0.00
+1437,150,1369.13,27279.54,19056.78,5484.51,2738.26,134.90,0.00,0.00
+1438,150,1316.85,26661.89,18667.82,5360.37,2633.69,158.63,0.00,0.00
+1439,150,1422.20,28114.91,19671.74,5598.78,2844.40,132.49,0.00,0.00
+1440,150,1248.82,25309.35,17789.43,5022.28,2497.64,170.48,0.00,0.00
+1441,150,1312.20,25989.87,18132.70,5232.78,2624.39,139.85,0.00,0.00
+1442,150,1388.79,27704.83,19388.08,5546.17,2770.58,155.80,0.00,0.00
+1443,150,1306.97,26292.48,18422.64,5248.90,2620.95,155.80,0.00,0.00
+1444,150,1348.25,26914.08,18851.56,5366.01,2696.51,137.35,0.00,0.00
+1445,150,1302.99,26243.72,18372.80,5264.94,2605.97,153.02,0.00,0.00
+1446,150,1324.79,26252.75,18363.02,5240.15,2649.57,158.63,0.00,0.00
+1447,150,1374.10,27539.00,19281.40,5509.40,2748.20,134.90,0.00,0.00
+1448,150,1319.13,26349.63,18451.84,5259.53,2638.26,155.80,0.00,0.00
+1449,150,1319.78,26218.72,18287.02,5292.14,2639.57,147.61,0.00,0.00
+1450,150,1348.23,27232.71,19103.30,5432.94,2696.47,137.35,0.00,0.00
+1451,150,1218.99,24433.75,17093.83,4901.95,2437.98,193.38,0.00,0.00
+1452,150,1337.75,26800.04,18803.52,5321.01,2675.50,153.02,0.00,0.00
+1453,150,1378.80,27659.92,19391.14,5511.19,2757.59,130.13,0.00,0.00
+1454,150,1293.45,25836.92,18020.22,5229.80,2586.89,161.51,0.00,0.00
+1455,150,1113.08,22003.64,15432.15,4345.32,2226.17,215.44,0.00,0.00
+1456,150,1274.65,25964.86,18158.01,5261.55,2545.30,215.44,0.00,0.00
+1457,150,1287.23,25554.52,17896.16,5079.90,2578.46,155.80,0.00,0.00
+1458,150,1311.98,26029.61,18193.73,5211.92,2623.96,155.80,0.00,0.00
+1459,150,1298.19,26171.84,18389.70,5185.76,2596.38,137.35,0.00,0.00
+1460,150,1319.28,26252.50,18330.84,5283.11,2638.55,158.63,0.00,0.00
+1461,150,1264.59,25057.83,17518.29,5010.37,2529.18,167.44,0.00,0.00
+1462,150,1229.80,24625.01,17232.21,4933.20,2459.60,155.80,0.00,0.00
+1463,150,1494.23,30053.63,21043.24,6021.93,2988.46,139.85,0.00,0.00
+1464,150,1394.01,27951.14,19623.10,5540.03,2788.01,150.29,0.00,0.00
+1465,150,1445.77,28795.33,20084.74,5819.06,2891.53,150.29,0.00,0.00
+1466,150,1399.98,27982.64,19620.75,5561.93,2799.96,137.35,0.00,0.00
+1467,150,1220.26,24370.12,17048.58,4881.02,2440.51,167.44,0.00,0.00
+1468,150,1245.74,24714.87,17262.42,4960.97,2491.48,164.45,0.00,0.00
+1469,150,1280.15,25823.03,18169.13,5093.60,2560.30,144.97,0.00,0.00
+1470,150,1198.86,24104.22,16855.05,4851.44,2397.72,193.38,0.00,0.00
+1471,150,1235.22,24757.35,17304.04,4982.87,2470.43,167.44,0.00,0.00
+1472,150,1286.04,25610.81,17913.57,5125.16,2572.08,144.97,0.00,0.00
+1473,150,1259.77,25097.34,17564.74,5013.07,2519.53,167.44,0.00,0.00
+1474,150,1282.21,25599.11,17903.87,5130.82,2564.41,158.63,0.00,0.00
+1475,150,1348.80,27231.03,19096.21,5437.21,2697.61,134.90,0.00,0.00
+1476,150,1327.05,26291.08,18320.75,5316.22,2654.11,155.80,0.00,0.00
+1477,150,1279.61,25929.06,18223.42,5146.42,2559.22,155.80,0.00,0.00
+1478,150,1276.36,25581.29,17953.12,5075.45,2552.73,142.39,0.00,0.00
+1479,150,1291.14,25503.67,17783.86,5137.54,2582.27,173.58,0.00,0.00
+1480,150,1321.76,26443.29,18524.70,5275.06,2643.53,161.51,0.00,0.00
+1481,150,1315.34,26196.74,18280.71,5285.36,2630.68,137.35,0.00,0.00
+1482,150,1354.63,27173.63,19078.82,5385.54,2709.26,155.80,0.00,0.00
+1483,150,1290.26,26006.32,18239.73,5186.06,2580.53,158.63,0.00,0.00
+1484,150,1281.75,25476.95,17827.47,5085.99,2563.49,139.85,0.00,0.00
+1485,150,1337.22,26841.38,18760.06,5406.88,2674.44,161.51,0.00,0.00
+1486,150,1265.17,25188.40,17615.38,5042.68,2530.34,155.80,0.00,0.00
+1487,150,1059.74,21478.70,15099.27,4259.95,2119.48,219.36,0.00,0.00
+1488,150,1389.19,27566.86,19310.70,5477.77,2778.39,142.39,0.00,0.00
+1489,150,1070.84,21258.78,14846.75,4270.35,2141.68,204.11,0.00,0.00
+1490,150,1041.15,21109.01,14760.11,4266.61,2082.30,193.38,0.00,0.00
+1491,150,965.82,19124.51,13427.55,3765.31,1931.65,204.11,0.00,0.00
+1492,150,1023.20,20430.08,14259.85,4123.82,2046.41,200.47,0.00,0.00
+1493,150,1006.83,20202.50,14163.55,4025.30,2013.65,193.38,0.00,0.00
+1494,150,1199.21,23731.11,16531.87,4800.83,2398.42,196.89,0.00,0.00
+1495,150,1265.69,25766.78,18114.63,5120.76,2531.39,161.51,0.00,0.00
+1496,150,1408.32,28113.39,19665.47,5631.28,2816.64,134.90,0.00,0.00
+1497,150,1321.00,26251.96,18358.97,5250.99,2642.00,153.02,0.00,0.00
+1498,150,1297.77,25784.37,18035.76,5153.07,2595.53,164.45,0.00,0.00
+1499,150,1332.25,26827.08,18789.56,5373.02,2664.50,139.85,0.00,0.00
+1500,150,1097.00,22080.06,15457.04,4429.01,2194.01,183.21,0.00,0.00
+1501,150,1192.66,23804.14,16683.19,4735.64,2385.31,170.48,0.00,0.00
+1502,150,1239.32,24716.36,17309.45,4928.27,2478.64,150.29,0.00,0.00
+1503,150,1156.04,22993.81,16091.57,4590.16,2312.08,183.21,0.00,0.00
+1504,150,1253.01,25038.23,17484.16,5048.05,2506.02,158.63,0.00,0.00
+1505,150,1288.99,26248.83,18390.88,5279.97,2577.98,142.39,0.00,0.00
+1506,150,1275.83,25334.67,17751.67,5031.34,2551.66,155.80,0.00,0.00
+1507,150,1124.12,22525.47,15740.73,4536.50,2248.25,215.44,0.00,0.00
+1508,150,1323.79,26329.73,18475.00,5207.16,2647.57,139.85,0.00,0.00
+1509,150,1265.18,25329.66,17732.56,5066.73,2530.37,173.58,0.00,0.00
+1510,150,1252.81,25146.15,17587.30,5053.23,2505.62,161.51,0.00,0.00
+1511,150,1358.03,26976.59,18892.41,5368.12,2716.06,139.85,0.00,0.00
+1512,150,1332.12,26656.43,18621.70,5370.49,2664.24,147.61,0.00,0.00
+1513,150,1219.72,24496.36,17156.05,4900.87,2439.44,200.47,0.00,0.00
+1514,150,1399.19,27658.81,19353.67,5506.76,2798.39,134.90,0.00,0.00
+1515,150,1301.97,26312.41,18428.59,5279.88,2603.94,164.45,0.00,0.00
+1516,150,1304.16,26095.21,18260.25,5226.64,2608.32,167.44,0.00,0.00
+1517,150,1325.87,26416.51,18500.25,5264.50,2651.75,139.85,0.00,0.00
+1518,150,1256.16,25378.31,17804.32,5061.66,2512.33,176.73,0.00,0.00
+1519,150,1317.00,26080.04,18231.03,5215.01,2634.00,161.51,0.00,0.00
+1520,150,1362.65,27060.01,18910.12,5424.60,2725.30,137.35,0.00,0.00
+1521,150,1295.32,26156.56,18351.60,5214.31,2590.65,153.02,0.00,0.00
+1522,150,1316.79,26298.83,18407.08,5258.17,2633.58,153.02,0.00,0.00
+1523,150,1319.20,26447.04,18494.82,5313.81,2638.40,147.61,0.00,0.00
+1524,150,1321.00,26280.98,18399.98,5239.00,2642.00,150.29,0.00,0.00
+1525,150,1293.70,26024.92,18194.75,5242.78,2587.40,153.02,0.00,0.00
+1526,150,1337.34,26649.73,18641.71,5333.35,2674.68,142.39,0.00,0.00
+1527,150,1308.77,26350.38,18502.75,5230.08,2617.54,155.80,0.00,0.00
+1528,150,1301.20,25996.02,18174.81,5218.81,2602.40,158.63,0.00,0.00
+1529,150,1322.70,26363.98,18480.78,5237.80,2645.40,137.35,0.00,0.00
+1530,150,1361.33,27282.51,19048.55,5511.32,2722.65,153.02,0.00,0.00
+1531,150,1274.79,25217.90,17662.13,5006.19,2549.59,219.36,0.00,0.00
+1532,150,1259.34,25207.90,17640.83,5048.38,2518.69,147.61,0.00,0.00
+1533,150,1359.62,27431.25,19235.56,5476.45,2719.23,186.54,0.00,0.00
+1534,150,1275.21,25547.12,17889.89,5106.82,2550.41,170.48,0.00,0.00
+1535,150,1286.77,25767.36,17999.76,5194.06,2573.54,147.61,0.00,0.00
+1536,150,1371.55,27396.00,19183.70,5469.20,2743.10,144.97,0.00,0.00
+1537,150,1327.31,26414.36,18510.44,5249.29,2654.63,155.80,0.00,0.00
+1538,150,1305.39,26030.72,18202.39,5217.55,2610.77,158.63,0.00,0.00
+1539,150,1365.82,27373.47,19158.53,5483.29,2731.65,134.90,0.00,0.00
+1540,150,1284.00,25778.96,18071.97,5138.99,2568.00,164.45,0.00,0.00
+1541,150,1294.06,26135.22,18276.85,5270.25,2588.12,158.63,0.00,0.00
+1542,150,1329.89,26295.82,18402.48,5233.57,2659.78,161.51,0.00,0.00
+1543,150,1325.22,26343.43,18402.09,5290.89,2650.45,147.61,0.00,0.00
+1544,150,1300.01,26034.28,18274.20,5160.06,2600.03,161.51,0.00,0.00
+1545,150,1367.73,27427.59,19185.22,5506.91,2735.46,137.35,0.00,0.00
+1546,150,1308.24,26089.77,18247.34,5225.96,2616.48,153.02,0.00,0.00
+1547,150,1250.80,25157.03,17617.22,5038.21,2501.61,167.44,0.00,0.00
+1548,150,1343.13,27059.59,18959.81,5413.52,2686.26,139.85,0.00,0.00
+1549,150,1278.82,25299.36,17719.45,5022.28,2557.63,164.45,0.00,0.00
+1550,150,1258.27,25384.39,17788.78,5079.08,2516.53,167.44,0.00,0.00
+1551,150,1352.65,26768.04,18672.15,5390.60,2705.30,137.35,0.00,0.00
+1552,150,1233.30,24770.09,17369.27,4934.21,2466.61,164.45,0.00,0.00
+1553,150,1253.70,25060.93,17526.75,5026.78,2507.39,155.80,0.00,0.00
+1554,150,1493.39,29687.74,20772.41,5928.54,2986.78,123.28,0.00,0.00
+1555,150,1342.61,26962.12,18860.49,5416.42,2685.22,153.02,0.00,0.00
+1556,150,1445.43,28730.58,20058.99,5780.73,2890.86,144.97,0.00,0.00
+1557,150,1341.79,27212.82,19135.06,5394.17,2683.59,142.39,0.00,0.00
+1558,150,1208.16,24193.28,16938.30,4838.66,2416.33,161.51,0.00,0.00
+1559,150,1219.36,24360.18,17048.02,4873.44,2438.72,164.45,0.00,0.00
+1560,150,1276.43,25759.51,18099.93,5106.72,2552.86,144.97,0.00,0.00
+1561,150,1266.20,25020.00,17431.79,5055.81,2532.41,161.51,0.00,0.00
+1562,150,1192.81,23827.22,16685.35,4756.25,2385.62,179.94,0.00,0.00
+1563,150,1288.21,25865.20,18122.94,5165.84,2576.42,144.97,0.00,0.00
+1564,150,1021.97,20425.48,14316.64,4064.90,2043.95,244.38,0.00,0.00
+1565,150,1275.96,25541.27,17875.49,5113.85,2551.93,164.45,0.00,0.00
+1566,150,1340.05,26625.00,18618.70,5326.20,2680.10,139.85,0.00,0.00
+1567,150,1279.97,25609.50,17925.65,5123.90,2559.95,161.51,0.00,0.00
+1568,150,1258.78,25291.61,17704.93,5069.12,2517.56,161.51,0.00,0.00
+1569,150,1377.26,27277.07,19059.54,5463.01,2754.51,139.85,0.00,0.00
+1570,150,1248.76,25365.18,17828.62,5039.04,2497.53,164.45,0.00,0.00
+1571,150,1302.14,26039.75,18213.92,5221.55,2604.28,161.51,0.00,0.00
+1572,150,1338.73,26790.55,18744.19,5367.91,2678.46,139.85,0.00,0.00
+1573,150,1310.38,26204.59,18373.32,5211.51,2619.76,153.02,0.00,0.00
+1574,150,1341.03,26465.54,18443.38,5340.11,2682.05,155.80,0.00,0.00
+1575,150,1342.99,26932.85,18917.90,5328.97,2685.99,134.90,0.00,0.00
+1576,150,1221.82,24610.30,17205.42,4961.25,2443.63,167.44,0.00,0.00
+1577,150,1289.25,25829.99,18078.50,5172.99,2578.50,161.51,0.00,0.00
+1578,150,1342.27,26751.80,18725.06,5342.20,2684.53,139.85,0.00,0.00
+1579,150,1278.31,25544.10,17893.35,5094.12,2556.62,164.45,0.00,0.00
+1580,150,1290.84,25722.84,17973.79,5167.36,2581.68,164.45,0.00,0.00
+1581,150,1306.20,26384.02,18508.82,5262.80,2612.40,139.85,0.00,0.00
+1582,150,1056.84,21234.71,14861.70,4259.34,2113.67,196.89,0.00,0.00
+1583,150,1173.16,23234.19,16301.24,4586.63,2346.32,186.54,0.00,0.00
+1584,150,1241.77,24926.39,17445.77,4997.08,2483.54,150.29,0.00,0.00
+1585,150,1240.21,24590.13,17180.88,4928.83,2480.42,167.44,0.00,0.00
+1586,150,1236.03,24928.69,17434.48,5022.14,2472.07,167.44,0.00,0.00
+1587,150,1310.84,26154.73,18300.71,5232.35,2621.67,144.97,0.00,0.00
+1588,150,1260.15,25253.99,17696.09,5037.60,2520.30,167.44,0.00,0.00
+1589,150,1266.79,25372.85,17756.09,5083.17,2533.59,161.51,0.00,0.00
+1590,150,1363.21,27024.18,18908.93,5388.83,2726.42,144.97,0.00,0.00
+1591,150,1098.84,21942.72,15339.70,4405.34,2197.67,262.64,0.00,0.00
+1592,150,1283.22,25873.51,18137.16,5169.90,2566.45,150.29,0.00,0.00
+1593,150,1347.66,27174.11,19041.17,5437.62,2695.32,139.85,0.00,0.00
+1594,150,1313.27,26160.34,18278.73,5255.07,2626.54,167.44,0.00,0.00
+1595,150,1270.88,25100.59,17555.32,5003.52,2541.76,158.63,0.00,0.00
+1596,150,1318.18,26717.62,18750.54,5330.72,2636.36,142.39,0.00,0.00
+1597,150,1287.81,25686.17,17971.32,5139.23,2575.62,161.51,0.00,0.00
+1598,150,1284.19,25578.75,17913.63,5096.75,2568.38,161.51,0.00,0.00
+1599,150,1320.66,26551.17,18598.22,5311.63,2641.32,139.85,0.00,0.00
+1600,150,1267.33,25341.59,17733.61,5073.32,2534.66,167.44,0.00,0.00
+1601,150,1262.82,25458.38,17829.46,5103.27,2525.64,170.48,0.00,0.00
+1602,150,1338.19,26748.79,18673.65,5398.77,2676.38,137.35,0.00,0.00
+1603,150,1306.00,25644.94,17963.96,5068.99,2611.99,158.63,0.00,0.00
+1604,150,1265.84,25371.70,17780.68,5059.34,2531.67,170.48,0.00,0.00
+1605,150,1314.18,26089.65,18201.55,5259.74,2628.37,142.39,0.00,0.00
+1606,150,1248.79,25282.80,17781.05,5004.17,2497.59,158.63,0.00,0.00
+1607,150,1224.19,24462.89,17096.72,4917.78,2448.39,167.44,0.00,0.00
+1608,150,1342.73,26943.53,18866.17,5391.90,2685.45,139.85,0.00,0.00
+1609,150,1271.28,25672.63,17987.95,5142.13,2542.56,167.44,0.00,0.00
+1610,150,1319.72,25969.58,18154.21,5175.92,2639.45,167.44,0.00,0.00
+1611,150,1336.31,26766.21,18704.34,5389.25,2672.62,139.85,0.00,0.00
+1612,150,1250.77,25192.29,17661.70,5029.06,2501.53,170.48,0.00,0.00
+1613,150,1255.19,24987.81,17456.66,5020.76,2510.38,170.48,0.00,0.00
+1614,150,1374.80,27340.10,19135.27,5455.22,2749.61,137.35,0.00,0.00
+1615,150,1267.18,25596.62,17960.54,5101.72,2534.36,164.45,0.00,0.00
+1616,150,1289.79,25660.77,17965.04,5116.16,2579.57,161.51,0.00,0.00
+1617,150,1366.97,27385.39,19177.57,5473.88,2733.94,137.35,0.00,0.00
+1618,150,1280.23,25374.58,17689.19,5124.92,2560.46,170.48,0.00,0.00
+1619,150,1279.96,26115.16,18328.41,5226.83,2559.92,164.45,0.00,0.00
+1620,150,1371.84,27354.81,19163.77,5447.37,2743.68,134.90,0.00,0.00
+1621,150,1322.20,26247.88,18391.72,5211.77,2644.39,158.63,0.00,0.00
+1622,150,1282.40,25727.93,17985.56,5177.57,2564.80,167.44,0.00,0.00
+1623,150,1372.64,27458.73,19196.90,5516.56,2745.27,134.90,0.00,0.00
+1624,150,1307.18,26054.58,18268.51,5171.71,2614.36,161.51,0.00,0.00
+1625,150,1266.63,25535.52,17877.76,5124.50,2533.26,155.80,0.00,0.00
+1626,150,1186.18,23284.44,16250.40,4661.69,2372.35,223.34,0.00,0.00
+1627,150,1274.87,25634.34,17988.13,5096.47,2549.74,158.63,0.00,0.00
+1628,150,1296.38,26209.64,18346.35,5270.54,2592.76,153.02,0.00,0.00
+1629,150,1405.61,27770.31,19401.63,5557.46,2811.22,134.90,0.00,0.00
+1630,150,1302.08,26043.51,18225.06,5214.30,2604.15,161.51,0.00,0.00
+1631,150,1315.90,26392.05,18472.63,5287.61,2631.81,153.02,0.00,0.00
+1632,150,1355.19,27201.87,19069.71,5421.77,2710.39,137.35,0.00,0.00
+1633,150,1328.99,26414.84,18470.89,5285.97,2657.98,153.02,0.00,0.00
+1634,150,1274.84,25693.74,18014.71,5129.35,2549.68,158.63,0.00,0.00
+1635,150,1310.18,25885.60,18109.52,5155.72,2620.36,142.39,0.00,0.00
+1636,150,1346.74,27216.66,19037.27,5485.92,2693.47,155.80,0.00,0.00
+1637,150,1274.27,25455.47,17866.84,5040.08,2548.55,158.63,0.00,0.00
+1638,150,1322.67,26276.36,18358.36,5279.67,2638.33,144.97,0.00,0.00
+1639,150,1357.23,27335.67,19151.27,5462.93,2721.47,137.35,0.00,0.00
+1640,150,1325.49,26248.90,18328.95,5268.97,2650.98,153.02,0.00,0.00
+1641,150,1315.59,26673.02,18708.43,5333.40,2631.19,153.02,0.00,0.00
+1642,150,1348.99,26944.86,18865.90,5380.97,2697.99,142.39,0.00,0.00
+1643,150,1263.84,25309.79,17729.75,5052.36,2527.68,173.58,0.00,0.00
+1644,150,1274.63,25338.53,17718.76,5070.51,2549.26,161.51,0.00,0.00
+1645,150,1311.34,26199.90,18335.83,5241.38,2622.69,142.39,0.00,0.00
+1646,150,1269.17,25260.48,17643.43,5078.70,2538.35,170.48,0.00,0.00
+1647,150,1233.82,25240.33,17721.43,5051.27,2467.64,167.44,0.00,0.00
+1648,150,1348.81,26551.23,18549.36,5306.25,2695.62,139.85,0.00,0.00
+1649,150,1189.35,23962.98,16843.90,4738.38,2380.69,170.48,0.00,0.00
+1650,150,1317.73,26106.65,18229.27,5241.93,2635.46,153.02,0.00,0.00
+1651,150,1470.25,29356.98,20540.48,5876.00,2940.50,125.52,0.00,0.00
+1652,150,1377.87,27613.39,19324.17,5533.48,2755.74,150.29,0.00,0.00
+1653,150,1415.11,28424.22,19894.55,5699.45,2830.22,147.61,0.00,0.00
+1654,150,1285.04,25676.84,18022.59,5084.17,2570.08,144.97,0.00,0.00
+1655,150,1254.00,25153.04,17603.03,5042.01,2508.00,161.51,0.00,0.00
+1656,150,1185.85,23475.98,16399.89,4704.39,2371.69,164.45,0.00,0.00
+1657,150,1077.16,21659.14,15169.20,4335.63,2154.31,244.38,0.00,0.00
+1658,150,1227.99,24758.72,17369.81,4932.94,2455.97,164.45,0.00,0.00
+1659,150,1250.79,24769.80,17291.07,4977.16,2501.58,167.44,0.00,0.00
+1660,150,1315.19,26413.76,18496.63,5286.75,2630.37,142.39,0.00,0.00
+1661,150,1252.84,25067.75,17561.73,5000.35,2505.68,173.58,0.00,0.00
+1662,150,1252.21,25011.11,17493.87,5012.82,2504.41,167.44,0.00,0.00
+1663,150,1348.87,26828.48,18773.23,5357.50,2697.75,139.85,0.00,0.00
+1664,150,1057.00,21169.09,14813.06,4242.02,2114.01,183.21,0.00,0.00
+1665,150,808.27,16386.51,11519.87,3250.09,1616.54,211.60,0.00,0.00
+1666,150,301.95,6000.04,4184.33,1211.81,603.90,669.89,0.00,0.00
+1667,150,410.78,8002.70,5559.02,1622.13,821.56,467.30,0.00,0.00
+1668,150,455.31,9146.18,6420.34,1815.23,910.62,467.30,0.00,0.00
+1669,150,523.67,10521.30,7370.30,2103.66,1047.33,397.39,0.00,0.00
+1670,150,482.20,9559.03,6699.83,1894.80,964.41,397.39,0.00,0.00
+1671,150,373.93,7605.64,5333.05,1524.73,747.87,559.50,0.00,0.00
+1672,150,599.10,12152.96,8501.37,2453.40,1198.19,493.24,0.00,0.00
+1673,150,888.87,17388.38,12148.17,3462.48,1777.73,227.40,0.00,0.00
+1674,150,913.15,18472.02,12944.11,3701.60,1826.30,207.82,0.00,0.00
+1675,150,1018.99,20239.81,14127.87,4073.96,2037.98,211.60,0.00,0.00
+1676,150,953.84,19440.70,13634.69,3898.34,1907.68,204.11,0.00,0.00
+1677,150,1039.18,20618.55,14471.49,4068.70,2078.36,186.54,0.00,0.00
+1678,150,935.92,18777.38,13105.87,3799.67,1871.84,193.38,0.00,0.00
+1679,150,972.07,19446.50,13629.05,3873.30,1944.15,223.34,0.00,0.00
+1680,150,888.86,17517.22,12273.05,3466.45,1777.72,253.35,0.00,0.00
+1681,150,984.20,19931.00,13956.80,4005.80,1968.40,189.93,0.00,0.00
+1682,150,1039.94,20693.79,14480.15,4133.76,2079.88,200.47,0.00,0.00
+1683,150,987.89,19814.87,13846.51,3992.57,1975.79,189.93,0.00,0.00
+1684,150,1010.27,20214.42,14167.80,4026.08,2020.54,200.47,0.00,0.00
+1685,150,1015.86,20208.19,14121.04,4055.44,2031.72,211.60,0.00,0.00
+1686,150,1240.94,24953.85,17504.20,4967.77,2481.89,161.51,0.00,0.00
+1687,150,1231.07,24574.48,17195.04,4917.30,2462.15,170.48,0.00,0.00
+1688,150,1249.23,25052.65,17542.26,5011.93,2498.46,155.80,0.00,0.00
+1689,150,1221.58,24458.63,17112.14,4903.32,2443.16,164.45,0.00,0.00
+1690,150,1247.19,24773.79,17341.65,4937.76,2494.38,173.58,0.00,0.00
+1691,150,1287.96,26020.13,18206.39,5237.82,2575.91,144.97,0.00,0.00
+1692,150,982.89,19317.80,13517.46,3834.56,1965.78,200.47,0.00,0.00
+1693,150,966.14,19421.72,13616.91,3872.54,1932.27,204.11,0.00,0.00
+1694,150,1000.98,19866.69,13882.79,3981.94,2001.97,207.82,0.00,0.00
+1695,150,930.03,18792.52,13142.37,3790.11,1860.05,211.60,0.00,0.00
+1696,150,1040.87,20698.40,14469.18,4147.48,2081.74,196.89,0.00,0.00
+1697,150,910.14,18359.77,12888.95,3650.55,1820.27,211.60,0.00,0.00
+1698,150,854.90,16977.97,11867.58,3400.59,1709.80,231.53,0.00,0.00
+1699,150,912.75,18397.87,12915.40,3656.98,1825.49,219.36,0.00,0.00
+1700,150,973.37,19534.39,13644.16,3943.49,1946.74,207.82,0.00,0.00
+1701,150,933.85,18699.01,13125.90,3705.41,1867.70,204.11,0.00,0.00
+1702,150,983.30,19562.95,13672.16,3924.19,1966.60,200.47,0.00,0.00
+1703,150,924.87,18229.39,12707.18,3672.47,1849.74,227.40,0.00,0.00
+1704,150,950.59,19118.85,13406.28,3811.37,1901.19,204.11,0.00,0.00
+1705,150,993.40,19986.03,14008.63,3990.60,1986.80,211.60,0.00,0.00
+1706,150,991.75,19782.94,13818.46,3980.98,1983.49,196.89,0.00,0.00
+1707,150,960.49,19191.71,13468.81,3801.92,1920.97,204.11,0.00,0.00
+1708,150,984.20,19698.02,13795.81,3933.81,1968.40,204.11,0.00,0.00
+1709,150,988.73,19732.66,13790.25,3964.95,1977.47,196.89,0.00,0.00
+1710,150,935.83,18661.61,13056.63,3733.32,1871.66,200.47,0.00,0.00
+1711,150,991.88,20045.48,14057.23,4004.50,1983.75,193.38,0.00,0.00
+1712,150,954.18,18999.54,13294.48,3796.71,1908.36,204.11,0.00,0.00
+1713,150,976.97,19544.34,13702.54,3887.87,1953.93,196.89,0.00,0.00
+1714,150,978.82,19494.50,13634.55,3902.30,1957.65,200.47,0.00,0.00
+1715,150,918.16,18446.15,12886.20,3723.64,1836.31,207.82,0.00,0.00
+1716,150,987.76,19863.22,13937.65,3950.05,1975.52,215.44,0.00,0.00
+1717,150,948.21,18989.25,13308.98,3783.85,1896.42,200.47,0.00,0.00
+1718,150,915.52,18326.40,12820.28,3675.07,1831.04,207.82,0.00,0.00
+1719,150,874.62,17337.35,12106.62,3481.48,1749.25,272.27,0.00,0.00
+1720,150,1031.82,20765.46,14562.52,4139.29,2063.65,196.89,0.00,0.00
+1721,150,993.79,19396.91,13479.16,3930.17,1987.58,207.82,0.00,0.00
+1722,150,1019.39,20621.82,14495.50,4087.55,2038.77,189.93,0.00,0.00
+1723,150,939.57,18838.45,13215.00,3744.30,1879.15,211.60,0.00,0.00
+1724,150,937.27,19229.62,13446.93,3908.14,1874.55,204.11,0.00,0.00
+1725,150,1000.84,19735.90,13838.83,3895.39,2001.69,223.34,0.00,0.00
+1726,150,983.12,19817.46,13858.72,3992.50,1966.24,200.47,0.00,0.00
+1727,150,1049.88,20731.62,14508.33,4123.53,2099.76,189.93,0.00,0.00
+1728,150,1205.12,24157.40,16887.68,4859.48,2410.24,215.44,0.00,0.00
+1729,150,1299.03,26138.63,18339.44,5201.13,2598.06,164.45,0.00,0.00
+1730,150,1407.97,27984.35,19600.55,5567.87,2815.93,130.13,0.00,0.00
+1731,150,1318.79,26338.76,18428.03,5273.15,2637.58,155.80,0.00,0.00
+1732,150,1316.26,26175.21,18254.64,5288.05,2632.52,158.63,0.00,0.00
+1733,150,1380.62,27728.40,19426.68,5540.48,2761.24,134.90,0.00,0.00
+1734,150,1338.45,26868.95,18878.29,5313.77,2676.89,147.61,0.00,0.00
+1735,150,1311.70,26155.01,18270.82,5260.80,2623.40,170.48,0.00,0.00
+1736,150,1418.26,28495.17,19962.62,5696.03,2836.51,130.13,0.00,0.00
+1737,150,1233.99,24663.86,17249.90,4945.97,2467.99,207.82,0.00,0.00
+1738,150,1360.78,27009.60,18878.92,5409.12,2721.56,158.63,0.00,0.00
+1739,150,1404.20,28302.05,19833.84,5659.81,2808.40,132.49,0.00,0.00
+1740,150,1297.99,25984.76,18175.84,5212.95,2595.98,158.63,0.00,0.00
+1741,150,1322.84,26209.77,18295.74,5268.35,2645.67,158.63,0.00,0.00
+1742,150,1361.19,27375.88,19216.72,5436.77,2722.39,137.35,0.00,0.00
+1743,150,1299.81,26004.14,18188.30,5216.23,2599.61,164.45,0.00,0.00
+1744,150,1296.99,25712.86,18006.90,5111.97,2593.99,155.80,0.00,0.00
+1745,150,1322.02,26589.36,18584.25,5361.07,2644.04,137.35,0.00,0.00
+1746,150,1227.07,24911.34,17513.94,4943.27,2454.13,164.45,0.00,0.00
+1747,150,1228.01,24431.22,17113.15,4862.04,2456.02,161.51,0.00,0.00
+1748,150,1462.08,29187.57,20407.10,5856.31,2924.16,134.90,0.00,0.00
+1749,150,1404.99,28087.83,19690.88,5586.97,2809.98,139.85,0.00,0.00
+1750,150,1022.76,20285.27,14135.70,4104.04,2045.52,227.40,0.00,0.00
+1751,150,1335.30,26720.94,18699.16,5351.19,2670.59,142.39,0.00,0.00
+1752,150,1241.01,24947.15,17479.10,4986.03,2482.01,164.45,0.00,0.00
+1753,150,1221.49,24387.83,17073.88,4870.97,2442.98,167.44,0.00,0.00
+1754,150,1291.55,25657.94,17947.65,5127.19,2583.10,147.61,0.00,0.00
+1755,150,1234.79,24910.72,17484.00,4957.15,2469.58,155.80,0.00,0.00
+1756,150,1196.19,23798.72,16631.60,4774.75,2392.37,193.38,0.00,0.00
+1757,150,1343.02,27136.43,19012.30,5438.09,2686.04,137.35,0.00,0.00
+1758,150,1315.76,26183.23,18313.66,5238.04,2631.52,155.80,0.00,0.00
+1759,150,1304.23,26036.69,18263.29,5164.93,2608.47,161.51,0.00,0.00
+1760,150,1377.00,27533.09,19240.06,5539.02,2754.01,134.90,0.00,0.00
+1761,150,1298.74,25763.92,18000.45,5165.98,2597.49,158.63,0.00,0.00
+1762,150,1301.21,25988.29,18200.00,5187.86,2600.43,158.63,0.00,0.00
+1763,150,1210.26,24395.24,17057.67,4915.06,2422.52,155.80,0.00,0.00
+1764,150,1175.77,23385.48,16354.84,4679.10,2351.55,176.73,0.00,0.00
+1765,150,1165.00,23291.03,16347.02,4614.01,2330.00,173.58,0.00,0.00
+1766,150,1133.74,22816.80,15995.36,4553.96,2267.48,186.54,0.00,0.00
+1767,150,1338.35,26830.99,18767.89,5386.40,2676.70,144.97,0.00,0.00
+1768,150,1268.72,25134.44,17568.11,5028.89,2537.44,158.63,0.00,0.00
+1769,150,1213.22,24771.56,17342.19,5002.92,2426.45,164.45,0.00,0.00
+1770,150,1347.91,26726.12,18779.68,5250.63,2695.81,137.35,0.00,0.00
+1771,150,1276.08,25585.50,17828.05,5205.31,2552.15,153.02,0.00,0.00
+1772,150,1337.00,26524.96,18586.97,5263.99,2674.00,147.61,0.00,0.00
+1773,150,1221.83,24510.60,17167.62,4899.32,2443.66,215.44,0.00,0.00
+1774,150,1320.19,26363.78,18459.65,5263.75,2640.38,153.02,0.00,0.00
+1775,150,1215.67,24470.29,17126.30,4912.65,2431.33,196.89,0.00,0.00
+1776,150,1341.37,26703.29,18702.10,5320.45,2680.73,137.35,0.00,0.00
+1777,150,1320.01,26461.21,18505.15,5314.04,2642.02,158.63,0.00,0.00
+1778,150,1306.67,26161.46,18319.42,5228.69,2613.35,158.63,0.00,0.00
+1779,150,1402.36,27871.24,19503.06,5563.44,2804.73,134.90,0.00,0.00
+1780,150,1307.79,26389.77,18450.04,5324.15,2615.58,155.80,0.00,0.00
+1781,150,1239.18,24626.58,17280.51,4867.71,2478.36,170.48,0.00,0.00
+1782,150,1366.03,27294.58,19105.40,5457.12,2732.06,137.35,0.00,0.00
+1783,150,1294.73,26312.43,18392.11,5331.87,2588.45,153.02,0.00,0.00
+1784,150,1252.24,24647.64,17280.25,4861.92,2505.47,173.58,0.00,0.00
+1785,150,1369.82,27369.50,19168.55,5461.30,2739.65,137.35,0.00,0.00
+1786,150,1295.74,25966.82,18162.38,5212.96,2591.48,161.51,0.00,0.00
+1787,150,1299.43,26003.70,18224.10,5180.73,2598.87,164.45,0.00,0.00
+1788,150,1380.24,27668.88,19359.42,5548.98,2760.49,134.90,0.00,0.00
+1789,150,1308.77,25844.46,18001.84,5235.08,2607.54,153.02,0.00,0.00
+1790,150,1293.70,26377.91,18557.72,5222.79,2597.40,161.51,0.00,0.00
+1791,150,1323.04,26178.84,18327.59,5205.17,2646.09,137.35,0.00,0.00
+1792,150,1300.02,25892.49,18089.34,5203.10,2600.05,167.44,0.00,0.00
+1793,150,1253.24,25349.81,17778.37,5064.96,2506.48,170.48,0.00,0.00
+1794,150,1293.04,25791.81,18017.56,5188.16,2586.08,139.85,0.00,0.00
+1795,150,1298.96,25861.21,18131.45,5131.84,2597.92,193.38,0.00,0.00
+1796,150,1299.52,26229.40,18352.29,5278.07,2599.05,155.80,0.00,0.00
+1797,150,1297.47,25639.30,17891.49,5152.87,2594.94,150.29,0.00,0.00
+1798,150,1295.93,26322.68,18506.07,5224.74,2591.87,144.97,0.00,0.00
+1799,150,1310.29,25965.84,18156.08,5189.17,2620.59,153.02,0.00,0.00
+1800,150,1279.42,25767.23,18052.76,5155.65,2558.83,155.80,0.00,0.00
+SQL statistics:
+    queries performed:
+        read:                            30393874
+        write:                           8683964
+        other:                           4341982
+        total:                           43419820
+    transactions:                        2170991 (1206.03 per sec.)
+    queries:                             43419820 (24120.58 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          1800.1141s
+    total number of events:              2170991
+
+Latency (ms):
+         min:                                   50.88
+         avg:                                  124.37
+         max:                                 1807.02
+         95th percentile:                      179.94
+         sum:                            269998040.00
+
+Threads fairness:
+    events (avg/stddev):           14473.2733/73.45
+    execution time (avg/stddev):   1799.9869/0.02
+
