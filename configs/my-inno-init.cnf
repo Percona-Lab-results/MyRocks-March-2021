@@ -1,0 +1,43 @@
+[mysqld]
+socket=/tmp/mysql.sock
+#ssl=0
+
+#log-bin=mysql-bin
+skip-log-bin
+
+#server-id=1721604
+#binlog_format = 'ROW'
+#binlog_row_image=minimal
+#sync_binlog=10000
+
+log-error=error.log
+
+# Disabling symbolic-links is recommended to prevent assorted security risks
+symbolic-links=0
+
+# Recommended in standard MySQL setup
+
+# files
+max_prepared_stmt_count=1000000
+
+#default_storage_engine=RocksDB
+
+
+user=mysql
+socket=/tmp/mysql.sock
+log-error=error.log
+
+#ssl=0
+performance_schema=OFF
+
+skip_log_bin
+
+#relay_log=relay
+#sync_binlog=1000
+#binlog_format = ROW
+#binlog_row_image=MINIMAL
+
+server_id = 7
+
+
+bind_address = 0.0.0.0

@@ -1,0 +1,77 @@
+[mysqld]
+socket=/tmp/mysql.sock
+#ssl=0
+
+#log-bin=mysql-bin
+#skip-log-bin
+
+log-bin=mysql-bin
+#skip-log-bin
+server-id=1721604
+binlog_format = 'ROW'
+binlog_row_image=FULL
+default_authentication_plugin='mysql_native_password'
+
+sync_binlog=10000
+
+log-error=error.log
+
+# Disabling symbolic-links is recommended to prevent assorted security risks
+symbolic-links=0
+
+# Recommended in standard MySQL setup
+
+# files
+max_prepared_stmt_count=1000000
+
+#default_storage_engine=RocksDB
+
+
+user=mysql
+
+#ssl=0
+performance_schema=OFF
+
+
+#relay_log=relay
+#sync_binlog=1000
+#binlog_format = ROW
+#binlog_row_image=MINIMAL
+
+
+# general
+table_open_cache = 200000
+table_open_cache_instances=64
+back_log=3500
+max_connections=4000
+ join_buffer_size=256K
+ sort_buffer_size=256K
+
+# files
+innodb_file_per_table
+innodb_log_file_size=10G
+innodb_log_files_in_group=2
+innodb_open_files=4000
+
+# buffers
+innodb_buffer_pool_size= 6G
+innodb_buffer_pool_instances=8
+innodb_page_cleaners=8
+innodb_lru_scan_depth=128
+innodb_log_buffer_size=64M
+
+default_storage_engine=InnoDB
+
+innodb_flush_log_at_trx_commit  = 1
+innodb_doublewrite= 1
+innodb_flush_method             = O_DIRECT
+innodb_file_per_table           = 1
+innodb_io_capacity=2000
+innodb_io_capacity_max=4000
+innodb_flush_neighbors=0
+
+
+#innodb_monitor_enable=all
+max_prepared_stmt_count=1000000 
+
+bind_address = 0.0.0.0
